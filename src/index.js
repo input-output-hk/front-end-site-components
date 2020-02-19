@@ -1,1 +1,1 @@
-console.log('front-end-site-components')
+export default () => true
