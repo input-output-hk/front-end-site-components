@@ -3,13 +3,29 @@
   "version": "0.0.1",
   "description": "Opinionated React components for IOHK's front-end web team",
   "main": "components/index.js",
+  "watch": {
+    "build:js": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "js"
+    },
+    "build:css": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "scss"
+    }
+  },
   "scripts": {
-    "build": "npm run clean && babel src --out-dir components --source-maps inline",
+    "build": "npm run clean && npm run build:css && npm run build:js",
+    "build:css": "node ./scripts/buildCSS.js",
+    "build:js": "babel src --out-dir components --source-maps inline",
     "clean": "rm -rf ./components",
     "lint": "eslint src/**/*.js",
     "install-peers": "npm-install-peers",
     "test": "TZ=UTC jest src/",
-    "watch": "npm run build -- --watch"
+    "watch": "npm-watch"
   },
   "repository": {
     "type": "git",
@@ -56,11 +72,15 @@
     "eslint-plugin-react": "^7.14.2",
     "eslint-plugin-standard": "^4.0.0",
     "jest": "^24.8.0",
+    "node-sass": "^4.13.1",
     "npm-install-peers": "^1.2.1",
+    "npm-watch": "^0.6.0",
     "react-dom": "^16.12.0"
   },
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "@input-output-hk/front-end-core-components": "^0.1.2",
+    "prop-types": "^15.6.2",
+    "react-icons": "^3.9.0"
   },
   "peerDependencies": {
     "react": "^16.3.0"
