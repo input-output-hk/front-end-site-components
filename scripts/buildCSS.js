@@ -3,7 +3,8 @@ const path = require('path')
 const fs = require('fs')
 
 sass.render({
-  file: path.join(__dirname, '..', 'src', 'index.scss')
+  file: path.join(__dirname, '..', 'src', 'index.scss'),
+  sourceMap: true
 }, (err, result) => {
   if (err) {
     console.error('Error building CSS', err)
