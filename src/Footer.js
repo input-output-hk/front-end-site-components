@@ -15,8 +15,8 @@ const Footer = ({ variant, children }) => {
   const FooterComponent = footerComponents[variant]
   return (
     <LanguageConsumer>
-      {({ lang } = {}) => (
-        <FooterComponent lang={lang}>
+      {({ key } = {}) => (
+        <FooterComponent lang={key}>
           {children}
         </FooterComponent>
       )}
