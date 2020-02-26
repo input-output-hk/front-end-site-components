@@ -1,6 +1,6 @@
 {
   "name": "@input-output-hk/front-end-site-components",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Opinionated React components for IOHK's front-end web team",
   "main": "components/index.js",
   "watch": {
