@@ -23,10 +23,10 @@ const IOHK = ({ lang, theme }) => {
         <div className='fesc-iohk-footer-section'>
           <div className='fesc-iohk-footer-row'>
             {content.links.map(column => (
-              <div className='fesc-iohk-footer-column'>
+              <div key={JSON.stringify(column)} className='fesc-iohk-footer-column'>
                 <ul>
                   {column.map(({ label, href }) => (
-                    <li><a href={href} rel='noopener'>{label}</a></li>
+                    <li key={`${label}_${href}`}><a href={href} rel='noopener'>{label}</a></li>
                   ))}
                 </ul>
               </div>

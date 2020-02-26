@@ -69,7 +69,7 @@ const Cardano = ({ lang, theme }) => {
             <p><strong>{content.cardanoLinks.title}</strong></p>
             <ul>
               {content.cardanoLinks.links.map(({ href, label }) => (
-                <li><a href={href} rel='noopener'>{label}</a></li>
+                <li key={`${href}_${label}`}><a href={href} rel='noopener'>{label}</a></li>
               ))}
             </ul>
           </div>
@@ -77,7 +77,7 @@ const Cardano = ({ lang, theme }) => {
             <p><strong>{content.communityLinks.title}</strong></p>
             <ul>
               {content.communityLinks.links.map(({ href, label }) => (
-                <li><a href={href} rel='noopener'>{label}</a></li>
+                <li key={`${href}_${label}`}><a href={href} rel='noopener'>{label}</a></li>
               ))}
             </ul>
           </div>
