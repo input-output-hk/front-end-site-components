@@ -1,1 +1,8 @@
-@import './resources/footer/cardano.scss'
+@import './footers/atala.scss';
+@import './footers/cardano.scss';
+
+footer#fesc-footer {
+  > div#fesc-footer-relative-container {
+    position: relative;
+  }
+}

@@ -11,14 +11,18 @@ const footerComponents = {
   iohk: IOHK
 }
 
-const Footer = ({ variant, children }) => {
+const Footer = ({ variant, children, absoluteChildren, theme = 'dark' }) => {
   const FooterComponent = footerComponents[variant]
   return (
     <LanguageConsumer>
       {({ key } = {}) => (
-        <FooterComponent lang={key}>
-          {children}
-        </FooterComponent>
+        <footer id='fesc-footer'>
+          {absoluteChildren}
+          <div id='fesc-footer-relative-container'>
+            <FooterComponent theme={theme} lang={key || 'en'} />
+            {children}
+          </div>
+        </footer>
       )}
     </LanguageConsumer>
   )
@@ -30,7 +34,9 @@ Footer.propTypes = {
     'cardano',
     'atala'
   ]).isRequired,
-  children: PropTypes.node
+  children: PropTypes.node,
+  absoluteChildren: PropTypes.node,
+  theme: PropTypes.oneOf([ 'dark', 'light' ])
 }
 
 export default Footer
