@@ -34,7 +34,7 @@ yarn add @input-output-hk/front-end-site-components
 
 ## Components
 
-**_TODO_**
+* [Footer](docs/components/Footer.md)
 
 ## Contributing
 

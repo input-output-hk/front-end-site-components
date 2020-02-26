@@ -5583,6 +5583,9 @@ exports[`Footer it renders children as expected 1`] = `
       <div
         id="fesc-footer-relative-container"
       >
+        <p>
+          Children
+        </p>
         <Atala
           lang="en"
           theme="dark"
@@ -5704,9 +5707,6 @@ exports[`Footer it renders children as expected 1`] = `
             </div>
           </div>
         </Atala>
-        <p>
-          Children
-        </p>
       </div>
     </footer>
   </Footer>

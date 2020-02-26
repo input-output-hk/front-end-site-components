@@ -19,8 +19,8 @@ const Footer = ({ variant, children, absoluteChildren, theme = 'dark' }) => {
         <footer id='fesc-footer'>
           {absoluteChildren}
           <div id='fesc-footer-relative-container'>
-            <FooterComponent theme={theme} lang={key || 'en'} />
             {children}
+            <FooterComponent theme={theme} lang={key || 'en'} />
           </div>
         </footer>
       )}
