@@ -1,0 +1,15 @@
+@import './footers/atala.scss';
+@import './footers/cardano.scss';
+@import './footers/iohk.scss';
+
+footer#fesc-footer {
+  box-sizing: border-box;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  > div#fesc-footer-relative-container {
+    position: relative;
+  }
+}

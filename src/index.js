@@ -1,1 +1,5 @@
-export default () => true
+import Footer from './Footer'
+
+export {
+  Footer
+}
