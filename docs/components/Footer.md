@@ -14,10 +14,10 @@ Language is inherited from the Language provider within [@input-output-hk/front-
 
 | prop name | description | type | required? | default value |
 | --------- | ----------- | ---- | --------- | ------------- |
-| variant | The variant of footer to render | `String<atala|cardano|iohk>` | ✓ | - |
+| variant | The variant of footer to render | `String<atala\|cardano\|iohk>` | ✓ | - |
 | children | Child nodes rendered relative to the parent footer | `Node` | ✗ | - |
 | absoluteChildren | Child nodes rendered absolute to the parent footer | `Node` | ✗ | - |
-| theme | How to theme the footer, mainly images | `String<dark|light>` | ✗ | dark |
+| theme | How to theme the footer, mainly images | `String<dark\|light>` | ✗ | dark |
 
 ## Usage
 
