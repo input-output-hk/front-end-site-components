@@ -81,7 +81,7 @@
     "prop-types": "^15.6.2"
   },
   "peerDependencies": {
-    "@input-output-hk/front-end-core-components": "0.1.2",
+    "@input-output-hk/front-end-core-components": "^0.1.2",
     "react-icons": "^3.9.0",
     "react": "^16.3.0"
   },
