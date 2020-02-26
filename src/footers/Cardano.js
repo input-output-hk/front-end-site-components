@@ -6,11 +6,13 @@ import Markdown from '@input-output-hk/front-end-core-components/components/Mark
 import Image from '@input-output-hk/front-end-core-components/components/Image'
 import cardano from '../resources/footer/cardano'
 
-const Cardano = ({ lang = 'en' }) => {
+const Cardano = ({ lang, theme }) => {
   const content = cardano[lang]
   if (!content) throw new Error(`No content for Cardano footer in language "${lang}"`)
+  let logoURL = 'https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/'
+  if (theme === 'dark') logoURL = 'https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/'
   return (
-    <footer id='fesc-cardano-footer'>
+    <div id='fesc-cardano-footer'>
       <div className='fesc-row fesc-row-top'>
         <div className='fesc-copyright'>
           <div>
@@ -26,7 +28,7 @@ const Cardano = ({ lang = 'en' }) => {
           <div className='fesc-iohk-logo'>
             <a rel='noopener' href='https://iohk.io/' title='Input Output HK'>
               <div>
-                <Image src='https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/' alt='IOHK logo' sizeFactor={0.14} maintainTransparency />
+                <Image src={logoURL} alt='IOHK logo' sizeFactor={0.14} maintainTransparency />
               </div>
               <div>
                 <p>IOHK supported project</p>
@@ -81,12 +83,13 @@ const Cardano = ({ lang = 'en' }) => {
           </div>
         </div>
       </div>
-    </footer>
+    </div>
   )
 }
 
 Cardano.propTypes = {
-  lang: PropTypes.string
+  lang: PropTypes.string.isRequired,
+  theme: PropTypes.oneOf([ 'dark', 'light' ]).isRequired
 }
 
 export default Cardano
