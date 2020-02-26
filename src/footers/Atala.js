@@ -16,7 +16,7 @@ const Atala = ({ lang, theme }) => {
           <div className='fesc-atala-footer-logo'>
             <div>
               <a href='https://atala.io/' rel='noopener'>
-                <Image src={logoURL} alt='Atala logo' sizeFactor={0.14} maintainTransparency />
+                <Image src={logoURL} alt='Atala logo' sizeFactor={0.2} maintainTransparency />
               </a>
             </div>
           </div>
