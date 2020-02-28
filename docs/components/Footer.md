@@ -7,7 +7,6 @@ Language is inherited from the Language provider within [@input-output-hk/front-
 ## Dependencies
 
 * react `^16.3`
-* react-icons `^3.9.0`
 * @input-output-hk/front-end-core-components `^0.1.2`
 
 ## Reference
