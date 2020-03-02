@@ -1,7 +1,71 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import styled from 'styled-components'
 import Image from '@input-output-hk/front-end-core-components/components/Image'
 import atala from '../resources/footer/atala'
+
+const MainRow = styled.div`
+  display: flex;
+  margin: 2.8rem 0;
+
+  @media screen and (max-width: 800px) {
+    flex-direction: column;
+  }
+`
+
+const Column = styled.div`
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex: ${({ flex }) => flex || 1};
+
+  @media screen and (max-width: 800px) {
+    margin: 1rem 0;
+    flex: 1;
+  }
+`
+
+const Logo = styled.div`
+  > div {
+    width: 100%;
+    max-width: 11rem;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    > div {
+      margin: 0 auto;
+    }
+  }
+`
+
+const FooterLinks = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  a {
+    &:first-of-type {
+      margin-right: 2rem;
+    }
+  }
+`
+
+const Copyright = styled.div`
+  display: flex;
+  justify-content: flex-end;
+
+  @media screen and (max-width: 800px) {
+    justify-content: center;
+
+    p {
+      margin: 0;
+    }
+  }
+`
 
 const Atala = ({ lang, theme }) => {
   const content = atala[lang]
@@ -9,34 +73,34 @@ const Atala = ({ lang, theme }) => {
   let logoURL = 'https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/'
   if (theme === 'dark') logoURL = 'https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/'
   return (
-    <div id='fesc-atala-footer'>
+    <div>
       <hr />
-      <div className='fesc-atala-footer-row'>
-        <div className='fesc-atala-footer-column'>
-          <div className='fesc-atala-footer-logo'>
+      <MainRow>
+        <Column>
+          <Logo>
             <div>
               <a href='https://atala.io/' rel='noopener'>
                 <Image src={logoURL} alt='Atala logo' sizeFactor={0.2} maintainTransparency />
               </a>
             </div>
-          </div>
-        </div>
-        <div className='fesc-atala-footer-column'>
-          <div className='fesc-atala-footer-links'>
+          </Logo>
+        </Column>
+        <Column flex={1.5}>
+          <FooterLinks>
             <a href='#' rel='noopener'>
               {content.termsAndConditions}
             </a>
             <a href='#' rel='noopener'>
               {content.privacyPolicy}
             </a>
-          </div>
-        </div>
-        <div className='fesc-atala-footer-column'>
-          <div className='fesc-atala-footer-copyright'>
+          </FooterLinks>
+        </Column>
+        <Column>
+          <Copyright>
             <p>Copyright ® {new Date().getFullYear()} atala.io</p>
-          </div>
-        </div>
-      </div>
+          </Copyright>
+        </Column>
+      </MainRow>
     </div>
   )
 }

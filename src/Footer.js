@@ -1,9 +1,22 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import styled from 'styled-components'
 import { Consumer as LanguageConsumer } from '@input-output-hk/front-end-core-components/components/Language'
 import Atala from './footers/Atala'
 import Cardano from './footers/Cardano'
 import IOHK from './footers/IOHK'
+
+const FooterContainer = styled.footer`
+  box-sizing: border-box;
+
+  * {
+    box-sizing: border-box;
+  }
+`
+
+const RelativeChildren = styled.div`
+  position: relative;
+`
 
 const footerComponents = {
   atala: Atala,
@@ -16,13 +29,13 @@ const Footer = ({ variant, children, absoluteChildren, theme = 'dark' }) => {
   return (
     <LanguageConsumer>
       {({ key } = {}) => (
-        <footer id='fesc-footer'>
+        <FooterContainer>
           {absoluteChildren}
-          <div id='fesc-footer-relative-container'>
+          <RelativeChildren>
             {children}
             <FooterComponent theme={theme} lang={key || 'en'} />
-          </div>
-        </footer>
+          </RelativeChildren>
+        </FooterContainer>
       )}
     </LanguageConsumer>
   )
