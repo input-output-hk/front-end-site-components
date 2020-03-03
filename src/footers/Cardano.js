@@ -5,6 +5,7 @@ import { FaTwitter, FaFacebookF, FaYoutube, FaRss } from 'react-icons/fa'
 import { DiGithubBadge } from 'react-icons/di'
 import Markdown from '@input-output-hk/front-end-core-components/components/Markdown'
 import Image from '@input-output-hk/front-end-core-components/components/Image'
+import Link from '@input-output-hk/front-end-core-components/components/Link'
 import cardano from '../resources/footer/cardano'
 
 const Container = styled.div`
@@ -159,42 +160,42 @@ const Cardano = ({ lang, theme }) => {
             <p>© IOHK 2015 - {new Date().getFullYear()}</p>
           </div>
           <div>
-            <a rel='noopener' title='Input Output HK GitHub' href='https://github.com/input-output-hk'>
+            <Link rel='noopener' title='Input Output HK GitHub' href='https://github.com/input-output-hk'>
               <DiGithubBadge size={25} />
-            </a>
+            </Link>
           </div>
         </Copyright>
         <TopRight>
           <Logo>
-            <a rel='noopener' href='https://iohk.io/' title='Input Output HK'>
+            <Link rel='noopener' href='https://iohk.io/' title='Input Output HK'>
               <div>
                 <Image src={logoURL} alt='IOHK logo' sizeFactor={0.14} maintainTransparency />
               </div>
               <div>
                 <p>IOHK supported project</p>
               </div>
-            </a>
+            </Link>
           </Logo>
           <SocialLinks>
             <SocialLink>
-              <a title='Input Output HK Twitter' rel='noopener' href='https://twitter.com/inputoutputHK'>
+              <Link title='Input Output HK Twitter' rel='noopener' href='https://twitter.com/inputoutputHK'>
                 <FaTwitter size={20} />
-              </a>
+              </Link>
             </SocialLink>
             <SocialLink>
-              <a title='Input Output HK Facebook' rel='noopener' href='https://www.facebook.com/iohk.io/'>
+              <Link title='Input Output HK Facebook' rel='noopener' href='https://www.facebook.com/iohk.io/'>
                 <FaFacebookF size={20} />
-              </a>
+              </Link>
             </SocialLink>
             <SocialLink>
-              <a title='Input Output HK YouTube' rel='noopener' href='https://www.youtube.com/c/IohkIo'>
+              <Link title='Input Output HK YouTube' rel='noopener' href='https://www.youtube.com/c/IohkIo'>
                 <FaYoutube size={20} />
-              </a>
+              </Link>
             </SocialLink>
             <SocialLink>
-              <a title='Input Output HK Blog' rel='noopener' href='https://iohk.io/blog/'>
+              <Link title='Input Output HK Blog' rel='noopener' href='https://iohk.io/blog/'>
                 <FaRss size={20} />
-              </a>
+              </Link>
             </SocialLink>
           </SocialLinks>
         </TopRight>
@@ -209,7 +210,7 @@ const Cardano = ({ lang, theme }) => {
             <p><strong>{content.cardanoLinks.title}</strong></p>
             <ul>
               {content.cardanoLinks.links.map(({ href, label }) => (
-                <li key={`${href}_${label}`}><a href={href} rel='noopener'>{label}</a></li>
+                <li key={`${href}_${label}`}><Link href={href} rel='noopener'>{label}</Link></li>
               ))}
             </ul>
           </LinksColumn>
@@ -217,7 +218,7 @@ const Cardano = ({ lang, theme }) => {
             <p><strong>{content.communityLinks.title}</strong></p>
             <ul>
               {content.communityLinks.links.map(({ href, label }) => (
-                <li key={`${href}_${label}`}><a href={href} rel='noopener'>{label}</a></li>
+                <li key={`${href}_${label}`}><Link href={href} rel='noopener'>{label}</Link></li>
               ))}
             </ul>
           </LinksColumn>

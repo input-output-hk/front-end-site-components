@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Image from '@input-output-hk/front-end-core-components/components/Image'
+import Link from '@input-output-hk/front-end-core-components/components/Link'
 import atala from '../resources/footer/atala'
 
 const MainRow = styled.div`
@@ -79,20 +80,20 @@ const Atala = ({ lang, theme }) => {
         <Column>
           <Logo>
             <div>
-              <a href='https://atala.io/' rel='noopener'>
+              <Link href='https://atala.io/' rel='noopener'>
                 <Image src={logoURL} alt='Atala logo' sizeFactor={0.2} maintainTransparency />
-              </a>
+              </Link>
             </div>
           </Logo>
         </Column>
         <Column flex={1.5}>
           <FooterLinks>
-            <a href='#' rel='noopener'>
+            <Link href='#' rel='noopener'>
               {content.termsAndConditions}
-            </a>
-            <a href='#' rel='noopener'>
+            </Link>
+            <Link href='#' rel='noopener'>
               {content.privacyPolicy}
-            </a>
+            </Link>
           </FooterLinks>
         </Column>
         <Column>

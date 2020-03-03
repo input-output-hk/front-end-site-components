@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Image from '@input-output-hk/front-end-core-components/components/Image'
+import Link from '@input-output-hk/front-end-core-components/components/Link'
 import iohk from '../resources/footer/iohk'
 
 const Container = styled.div`
@@ -111,9 +112,9 @@ const IOHK = ({ lang, theme }) => {
         <FirstSection>
           <Logo>
             <div>
-              <a href='https://iohk.io/' rel='noopener'>
+              <Link href='https://iohk.io/' rel='noopener'>
                 <Image src={logoURL} alt='IOHK logo' sizeFactor={0.14} maintainTransparency />
-              </a>
+              </Link>
             </div>
           </Logo>
         </FirstSection>
@@ -123,7 +124,7 @@ const IOHK = ({ lang, theme }) => {
               <LinksColumn key={JSON.stringify(column)}>
                 <ul>
                   {column.map(({ label, href }) => (
-                    <li key={`${label}_${href}`}><a href={href} rel='noopener'>{label}</a></li>
+                    <li key={`${label}_${href}`}><Link href={href} rel='noopener'>{label}</Link></li>
                   ))}
                 </ul>
               </LinksColumn>

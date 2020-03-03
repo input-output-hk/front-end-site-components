@@ -12,13 +12,12 @@
     }
   },
   "scripts": {
-    "build": "npm run clean && npm run build:js",
-    "build:js": "babel src --out-dir components --source-maps inline",
+    "build": "npm run clean && babel src --out-dir components --source-maps inline",
     "clean": "rm -rf ./components",
     "lint": "eslint src/**/*.js",
     "install-peers": "npm-install-peers",
     "test": "TZ=UTC jest src/",
-    "watch": "npm-watch"
+    "watch": "npm run build -- --watch"
   },
   "repository": {
     "type": "git",
@@ -74,7 +73,7 @@
     "react-icons": "^3.9.0"
   },
   "peerDependencies": {
-    "@input-output-hk/front-end-core-components": "^0.1.6",
+    "@input-output-hk/front-end-core-components": "^1.0.0",
     "styled-components": "^5.0.1",
     "react": "^16.3.0"
   },
