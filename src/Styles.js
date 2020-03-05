@@ -1,11 +1,5 @@
 import { createGlobalStyle } from 'styled-components'
-
-export function getFontSize (fontSize, baseFontSize) {
-  if (typeof baseFontSize !== 'number' || baseFontSize <= 0) throw new Error('getFontSize error, baseFontSize must be a number greater than 0')
-  return (fontSize && typeof fontSize === 'number' && fontSize > 0)
-    ? `${baseFontSize * fontSize / 10}rem`
-    : `${baseFontSize / 10}rem`
-}
+import { getFontSize } from '@input-output-hk/front-end-core-libraries/build/theme'
 
 export default createGlobalStyle`
   html {
