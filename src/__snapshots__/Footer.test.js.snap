@@ -649,7 +649,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
@@ -1621,7 +1621,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
@@ -2582,7 +2582,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
@@ -3543,7 +3543,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
@@ -4505,7 +4505,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
@@ -5478,7 +5478,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl efUtn"
+                  className="sc-AxgMl jthoeH"
                 >
                   <styled.div>
                     <div
