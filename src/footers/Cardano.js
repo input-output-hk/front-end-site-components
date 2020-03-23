@@ -9,7 +9,6 @@ import Link from '@input-output-hk/front-end-core-components/components/Link'
 import cardano from '../resources/footer/cardano'
 
 const Container = styled.div`
-  font-size: 85%;
   margin: 3rem 0;
 `
 
