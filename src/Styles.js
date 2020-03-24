@@ -8,10 +8,6 @@ export default createGlobalStyle`
     background-color: ${({ theme }) => theme.colors.background.default};
     box-sizing: border-box;
     font-size: 62.5%;
-
-    @media screen and (min-width: 2048px) {
-      font-size: 70%;
-    }
   }
 
   *,
