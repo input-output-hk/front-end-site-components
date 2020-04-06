@@ -110,4 +110,29 @@ export default createGlobalStyle`
     max-width: 100%;
     height: auto;
   }
+
+  .fullwidth {
+    width:100%;
+    height:auto
+  }
+  
+  .clear {
+    clear:both
+  }
+
+  ${'' /**
+  .opacity-10
+  */}
+  ${() => {
+    const opacity = []
+    for (let i = 0; i <= 10; i++) {
+      opacity.push(`
+        .opacity-${i} {
+          opacity: ${i / 10};
+        }
+      `)
+    }
+    return opacity.join('')
+  }}
+
 `
