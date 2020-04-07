@@ -1,6 +1,24 @@
 import { createGlobalStyle } from 'styled-components'
 import { getFontSize } from '@input-output-hk/front-end-core-libraries/build/theme'
 
+function getResponsiveFontCSS (font, baseFontSize) {
+  const keys = Object.keys(font).filter(key => key.match(/^@/))
+  const responsiveConfig = {}
+  keys.forEach(key => {
+    responsiveConfig[key] = { ...font[key] }
+    if (responsiveConfig[key].fontSize !== undefined) responsiveConfig[key].fontSize = getFontSize(responsiveConfig[key].fontSize, baseFontSize)
+  })
+
+  return Object.keys(responsiveConfig).map(query => {
+    const styles = Object.keys(responsiveConfig[query]).map(key => {
+      const property = key.replace(/([A-Z])/g, (_, upper) => `-${upper.toLowerCase()}`)
+      return `${property}: ${responsiveConfig[query][key]};`
+    }).join('')
+
+    return `${query} { ${styles} }`
+  }).join('')
+}
+
 export default createGlobalStyle`
   html {
     max-width: 100%;
@@ -34,6 +52,8 @@ export default createGlobalStyle`
     letter-spacing: ${({ theme }) => theme.typography.body.letterSpacing || theme.typography.letterSpacing};
     -ms-overflow-style: -ms-autohiding-scrollbar;
     min-height: 100vh;
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.body, theme.typography.baseFontSize)}
   }
 
   h1 {
@@ -42,6 +62,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h1.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h1.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h1.letterSpacing || theme.typography.letterSpacing};
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h1, theme.typography.baseFontSize)}
   }
 
   h2 {
@@ -50,6 +72,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h2.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h2.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h2.letterSpacing || theme.typography.letterSpacing};
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h2, theme.typography.baseFontSize)}
   }
 
   h3 {
@@ -58,6 +82,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h3.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h3.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h3.letterSpacing || theme.typography.letterSpacing};
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h3, theme.typography.baseFontSize)}
   }
 
   h4 {
@@ -66,6 +92,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h4.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h4.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h4.letterSpacing || theme.typography.letterSpacing};
+    
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h4, theme.typography.baseFontSize)}
   }
 
   h5 {
@@ -74,6 +102,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h5.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h5.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h5.letterSpacing || theme.typography.letterSpacing};
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h5, theme.typography.baseFontSize)}
   }
 
   h6 {
@@ -82,6 +112,8 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h6.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h6.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h6.letterSpacing || theme.typography.letterSpacing};
+
+    ${({ theme }) => getResponsiveFontCSS(theme.typography.h6, theme.typography.baseFontSize)}
   }
 
   small {
