@@ -62,7 +62,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h1.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h1.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h1.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.h1.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h1, theme.typography.baseFontSize)}
   }
 
@@ -72,7 +72,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h2.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h2.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h2.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.h2.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h2, theme.typography.baseFontSize)}
   }
 
@@ -82,7 +82,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h3.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h3.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h3.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.h3.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h3, theme.typography.baseFontSize)}
   }
 
@@ -92,7 +92,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h4.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h4.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h4.letterSpacing || theme.typography.letterSpacing};
-    
+    text-transform: ${({ theme }) => theme.typography.h4.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h4, theme.typography.baseFontSize)}
   }
 
@@ -102,7 +102,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h5.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h5.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h5.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.h5.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h5, theme.typography.baseFontSize)}
   }
 
@@ -112,7 +112,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.h6.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.h6.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.h6.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.h6.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.h6, theme.typography.baseFontSize)}
   }
 
