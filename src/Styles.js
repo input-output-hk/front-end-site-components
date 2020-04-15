@@ -45,13 +45,18 @@ export default createGlobalStyle`
     color: ${({ theme }) => theme.colors.text.primary};
     margin: 0;
     background-color: ${({ theme }) => theme.colors.background.default};
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    min-height: 100vh;
+  }
+
+  body,
+  input,
+  textarea {
     font-family: ${({ theme }) => theme.typography.body.fontFamily || theme.typography.fontFamily};
     font-size: ${({ theme }) => getFontSize(theme.typography.body.fontSize, theme.typography.baseFontSize)};
     font-weight: ${({ theme }) => theme.typography.body.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.body.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.body.letterSpacing || theme.typography.letterSpacing};
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    min-height: 100vh;
 
     ${({ theme }) => getResponsiveFontCSS(theme.typography.body, theme.typography.baseFontSize)}
   }
