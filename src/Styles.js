@@ -57,7 +57,7 @@ export default createGlobalStyle`
     font-weight: ${({ theme }) => theme.typography.body.fontWeight || theme.typography.fontWeight};
     line-height: ${({ theme }) => theme.typography.body.lineHeight || theme.typography.lineHeight};
     letter-spacing: ${({ theme }) => theme.typography.body.letterSpacing || theme.typography.letterSpacing};
-
+    text-transform: ${({ theme }) => theme.typography.body.textTransform || theme.typography.textTransform};
     ${({ theme }) => getResponsiveFontCSS(theme.typography.body, theme.typography.baseFontSize)}
   }
 
