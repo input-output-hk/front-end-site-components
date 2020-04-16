@@ -1,6 +1,6 @@
 {
   "name": "@input-output-hk/front-end-site-components",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "Opinionated React components for IOHK's front-end web team",
   "main": "components/index.js",
   "watch": {
@@ -74,6 +74,7 @@
   },
   "peerDependencies": {
     "@input-output-hk/front-end-core-components": "^1.0.0",
+    "@input-output-hk/front-end-core-libraries": "^1.1.0",
     "styled-components": "^5.0.1",
     "react": "^16.3.0"
   },
