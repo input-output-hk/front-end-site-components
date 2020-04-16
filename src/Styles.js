@@ -1,12 +1,13 @@
 import { createGlobalStyle } from 'styled-components'
 import { getFontSize, getLetterSpacing } from '@input-output-hk/front-end-core-libraries/build/theme'
 
-function getResponsiveFontCSS (font, baseFontSize) {
+function getResponsiveFontCSS (font, baseFontSize, defaultLetterSpacing) {
   const keys = Object.keys(font).filter(key => key.match(/^@/))
   const responsiveConfig = {}
   keys.forEach(key => {
     responsiveConfig[key] = { ...font[key] }
     if (responsiveConfig[key].fontSize !== undefined) responsiveConfig[key].fontSize = getFontSize(responsiveConfig[key].fontSize, baseFontSize)
+    if (responsiveConfig[key].letterSpacing !== undefined) responsiveConfig[key].letterSpacing = getLetterSpacing(responsiveConfig[key].letterSpacing, defaultLetterSpacing)
   })
 
   return Object.keys(responsiveConfig).map(query => {
