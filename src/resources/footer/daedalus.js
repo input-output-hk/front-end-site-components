@@ -7,6 +7,14 @@ Cardano is a software platform ONLY and does not conduct any independent diligen
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     `,
+    terms_of_service: {
+      label: 'Terms of service',
+      href: '/en/tos/'
+    },
+    release_notes: {
+      label: 'Release notes',
+      href: 'https://iohk.zendesk.com/hc/en-us/sections/360002144313-Updates'
+    },
     cardanoLinks: {
       title: 'More about Cardano',
       links: [
@@ -15,7 +23,7 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'Documentation', href: 'https://cardanodocs.com/introduction/' },
         { label: 'Cardano SL Source', href: 'https://github.com/input-output-hk/cardano-sl' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
-        { label: 'Why Cardano', href: 'https://whycardano.com/' },
+        { label: 'Why Cardano', href: 'https://cardano.org/why/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io/' },
         { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' },
         { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' }
@@ -32,7 +40,8 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
         { label: 'IOHK YouTube', href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w' },
         { label: 'Cardano Foundation YouTube', href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg' },
-        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' }
+        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' },
+        { label: 'info+en@cardano.org', href: 'mailto:info+en@cardano.org' }
       ]
     }
   },
@@ -44,6 +53,14 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
 
 投資調査に基づいて取引きされるブロックチェーン資産の価値が増加しない、または減少することはよくあります。同様に、投資調査に基づいて取引きするブロックチェーン資産の価格は、取引き後に上昇する場合も下落する場合もあります。
     `,
+    terms_of_service: {
+      label: '利用規約',
+      href: '/ja/tos/'
+    },
+    release_notes: {
+      label: 'リリースノート',
+      href: 'https://iohk.zendesk.com/hc/ja/sections/360002144313-Updates'
+    },
     cardanoLinks: {
       title: 'Cardanoについてもっと知る',
       links: [
@@ -53,7 +70,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'Cardano SLソース', href: 'https://github.com/input-output-hk/cardano-sl' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io' },
-        { label: 'Cardanoを選ぶ理由', href: 'https://whycardano.com/jp/' },
+        { label: 'Cardanoを選ぶ理由', href: 'https://cardano.org/why/jp' },
         { label: 'Cardanoテストネット', href: 'https://testnet.iohkdev.io/' },
         { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' }
       ]
@@ -69,7 +86,8 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
         { label: 'IOHK YouTube', href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w' },
         { label: 'Cardano Foundation YouTube', href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg' },
-        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' }
+        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' },
+        { label: 'info+en@cardano.org', href: 'mailto:info+en@cardano.org' }
       ]
     }
   },

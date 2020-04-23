@@ -203,6 +203,11 @@ const Daedalus = ({ lang, theme }) => {
       <BottomRow>
         <div className='body-text'>
           <Markdown source={content.body} />
+          <div>
+            <a href={content.terms_of_service.href}>{content.terms_of_service.label}</a>
+            {` | `}
+            <a href={content.release_notes.href} target='_blank'>{content.release_notes.label}</a>
+          </div>
         </div>
         <div>
           <LinksColumn>
