@@ -20,11 +20,11 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Atala
               lang="en"
@@ -51,6 +51,7 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://atala.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -105,10 +106,12 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/600/ 600w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/600/ 600w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="Atala logo"
@@ -142,6 +145,7 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -160,6 +164,7 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -226,11 +231,11 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Atala
               lang="en"
@@ -257,6 +262,7 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://atala.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -311,10 +317,12 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/600/ 600w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/600/ 600w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="Atala logo"
@@ -348,6 +356,7 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -366,6 +375,7 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -432,11 +442,11 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Atala
               lang="en"
@@ -463,6 +473,7 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://atala.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -517,10 +528,12 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/80/ 80w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/120/ 120w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/160/ 160w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/200/ 200w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/300/ 300w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/400/ 400w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/webp/-/resize/600/ 600w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/80/ 80w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/120/ 120w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/160/ 160w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/200/ 200w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/300/ 300w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/400/ 400w, https://ucarecdn.com/a2f086e8-2666-418a-a025-8c928040a4b9/-/format/png/-/resize/600/ 600w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="Atala logo"
@@ -554,6 +567,7 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -572,6 +586,7 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -637,11 +652,11 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="en"
@@ -673,6 +688,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -739,6 +755,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -796,10 +813,12 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -835,6 +854,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -894,6 +914,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -953,6 +974,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -1012,6 +1034,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -1172,6 +1195,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1194,6 +1218,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1216,6 +1241,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1238,6 +1264,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1260,6 +1287,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1282,6 +1310,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1304,6 +1333,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://daedaluswallet.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1326,6 +1356,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1348,6 +1379,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1383,6 +1415,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1405,6 +1438,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoAnnouncements/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1427,6 +1461,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1449,6 +1484,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1471,6 +1507,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1493,6 +1530,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/blog/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1515,6 +1553,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1537,6 +1576,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1559,6 +1599,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -1609,11 +1650,11 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="ja"
@@ -1645,6 +1686,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -1711,6 +1753,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -1768,10 +1811,12 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -1807,6 +1852,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -1866,6 +1912,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -1925,6 +1972,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -1984,6 +2032,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -2133,6 +2182,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2155,6 +2205,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2177,6 +2228,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2199,6 +2251,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2221,6 +2274,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2243,6 +2297,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://daedaluswallet.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2265,6 +2320,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/jp/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2287,6 +2343,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2309,6 +2366,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2344,6 +2402,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/ja/home-2/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2366,6 +2425,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoJapanOfficial"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2388,6 +2448,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2410,6 +2471,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2432,6 +2494,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2454,6 +2517,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/blog/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2476,6 +2540,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2498,6 +2563,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2520,6 +2586,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -2570,11 +2637,11 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="ko"
@@ -2606,6 +2673,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -2672,6 +2740,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -2729,10 +2798,12 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -2768,6 +2839,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -2827,6 +2899,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -2886,6 +2959,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -2945,6 +3019,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -3094,6 +3169,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3116,6 +3192,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3138,6 +3215,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3160,6 +3238,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3182,6 +3261,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3204,6 +3284,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3226,6 +3307,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardaedaluswallet.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3248,6 +3330,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3270,6 +3353,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3305,6 +3389,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3327,6 +3412,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoAnnouncements/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3349,6 +3435,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3371,6 +3458,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3393,6 +3481,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://iohk.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3415,6 +3504,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://iohk.io/blog/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3437,6 +3527,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3459,6 +3550,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3481,6 +3573,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -3531,11 +3624,11 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="zh-cn"
@@ -3567,6 +3660,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -3633,6 +3727,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -3690,10 +3785,12 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -3729,6 +3826,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -3788,6 +3886,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -3847,6 +3946,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -3906,6 +4006,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -4055,6 +4156,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4077,6 +4179,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4099,6 +4202,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/cn/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4121,6 +4225,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4143,6 +4248,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/cn/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4165,6 +4271,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4187,6 +4294,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://daedaluswallet.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4209,6 +4317,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4231,6 +4340,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4266,6 +4376,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/zh/home-3/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4288,6 +4399,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoAnnouncements/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4310,6 +4422,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4332,6 +4445,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4354,6 +4468,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://iohk.io"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4376,6 +4491,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://iohk.io/blog"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4398,6 +4514,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4420,6 +4537,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4442,6 +4560,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -4493,11 +4612,11 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="en"
@@ -4529,6 +4648,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -4595,6 +4715,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -4652,10 +4773,12 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -4691,6 +4814,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -4750,6 +4874,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -4809,6 +4934,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -4868,6 +4994,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -5028,6 +5155,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5050,6 +5178,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5072,6 +5201,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5094,6 +5224,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5116,6 +5247,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5138,6 +5270,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5160,6 +5293,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://daedaluswallet.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5182,6 +5316,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5204,6 +5339,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5239,6 +5375,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5261,6 +5398,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoAnnouncements/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5283,6 +5421,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5305,6 +5444,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5327,6 +5467,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5349,6 +5490,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/blog/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5371,6 +5513,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5393,6 +5536,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5415,6 +5559,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -5466,11 +5611,11 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Cardano
               lang="en"
@@ -5502,6 +5647,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="https://github.com/input-output-hk"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -5568,6 +5714,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -5625,10 +5772,12 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/webp/-/resize/420/ 420w"
+                                                type="image/webp"
                                               />
                                               <source
                                                 sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                                 srcSet="https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/-/format/png/-/resize/420/ 420w"
+                                                type="image/png"
                                               />
                                               <img
                                                 alt="IOHK logo"
@@ -5664,6 +5813,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://twitter.com/inputoutputHK"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -5723,6 +5873,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.facebook.com/iohk.io/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -5782,6 +5933,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://www.youtube.com/c/IohkIo"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -5841,6 +5993,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                                   >
                                     <LinkInner
                                       component="a"
+                                      elRef={null}
                                       href="https://iohk.io/blog/"
                                       isStatic={[Function]}
                                       rel="noopener"
@@ -6001,6 +6154,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanoexplorer.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6023,6 +6177,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanofoundation.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6045,6 +6200,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanodocs.com/introduction/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6067,6 +6223,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://github.com/input-output-hk/cardano-sl"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6089,6 +6246,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6111,6 +6269,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://whycardano.com/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6133,6 +6292,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://daedaluswallet.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6155,6 +6315,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://testnet.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6177,6 +6338,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardanorust.iohkdev.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6212,6 +6374,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6234,6 +6397,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://t.me/CardanoAnnouncements/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6256,6 +6420,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://forum.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6278,6 +6443,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.reddit.com/r/cardano/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6300,6 +6466,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6322,6 +6489,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.iohk.io/blog/"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6344,6 +6512,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6366,6 +6535,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6388,6 +6558,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 >
                                   <LinkInner
                                     component="a"
+                                    elRef={null}
                                     href="https://twitter.com/cardanostiftung"
                                     isStatic={[Function]}
                                     rel="noopener"
@@ -6438,11 +6609,11 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <IOHK
               lang="en"
@@ -6469,6 +6640,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -6523,10 +6695,12 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/420/ 420w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/420/ 420w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="IOHK logo"
@@ -6568,6 +6742,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6590,6 +6765,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/about/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6612,6 +6788,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/team/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6634,6 +6811,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/contact/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6656,6 +6834,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/careers/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6678,6 +6857,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6710,6 +6890,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/cardano/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6732,6 +6913,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/daedalus/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6754,6 +6936,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/ethereum-classic/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6776,6 +6959,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/qeditas/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6798,6 +6982,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/scorex/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6820,6 +7005,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/rscoin/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6842,6 +7028,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/symphony/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6874,6 +7061,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6896,6 +7084,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/library/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6918,6 +7107,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/blog/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6940,6 +7130,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/feed/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6972,6 +7163,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://twitter.com/inputoutputHK"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -6994,6 +7186,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.facebook.com/iohk.io/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7016,6 +7209,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.github.com/input-output-hk"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7038,6 +7232,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.linkedin.com/company/input-output-global/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7060,6 +7255,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.youtube.com/c/IohkIo"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7113,11 +7309,11 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <IOHK
               lang="en"
@@ -7144,6 +7340,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -7198,10 +7395,12 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/420/ 420w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/420/ 420w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="IOHK logo"
@@ -7243,6 +7442,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7265,6 +7465,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/about/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7287,6 +7488,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/team/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7309,6 +7511,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/contact/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7331,6 +7534,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/careers/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7353,6 +7557,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7385,6 +7590,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/cardano/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7407,6 +7613,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/daedalus/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7429,6 +7636,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/ethereum-classic/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7451,6 +7659,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/qeditas/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7473,6 +7682,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/scorex/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7495,6 +7705,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/rscoin/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7517,6 +7728,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/symphony/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7549,6 +7761,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7571,6 +7784,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/library/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7593,6 +7807,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/blog/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7615,6 +7830,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/feed/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7647,6 +7863,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://twitter.com/inputoutputHK"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7669,6 +7886,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.facebook.com/iohk.io/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7691,6 +7909,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.github.com/input-output-hk"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7713,6 +7932,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.linkedin.com/company/input-output-global/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7735,6 +7955,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.youtube.com/c/IohkIo"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7788,11 +8009,11 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <IOHK
               lang="en"
@@ -7819,6 +8040,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://iohk.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -7873,10 +8095,12 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/webp/-/resize/420/ 420w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 56px, (max-width: 600px) 84px, (max-width: 800px) 112px, (max-width: 1000px) 140px, (max-width: 1500px) 210px, (max-width: 2000px) 280px, (max-width: 3000px) 420px, 100vw"
                                               srcSet="https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/56/ 56w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/84/ 84w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/112/ 112w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/140/ 140w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/210/ 210w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/280/ 280w, https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/format/png/-/resize/420/ 420w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="IOHK logo"
@@ -7918,6 +8142,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7940,6 +8165,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/about/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7962,6 +8188,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/team/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -7984,6 +8211,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/contact/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8006,6 +8234,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/careers/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8028,6 +8257,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8060,6 +8290,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/cardano/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8082,6 +8313,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/daedalus/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8104,6 +8336,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/ethereum-classic/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8126,6 +8359,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/qeditas/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8148,6 +8382,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/scorex/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8170,6 +8405,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/rscoin/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8192,6 +8428,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/projects/symphony/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8224,6 +8461,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8246,6 +8484,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/research/library/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8268,6 +8507,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/blog/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8290,6 +8530,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://iohk.io/en/feed/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8322,6 +8563,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://twitter.com/inputoutputHK"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8344,6 +8586,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.facebook.com/iohk.io/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8366,6 +8609,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.github.com/input-output-hk"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8388,6 +8632,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.linkedin.com/company/input-output-global/"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8410,6 +8655,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                                     >
                                       <LinkInner
                                         component="a"
+                                        elRef={null}
                                         href="https://www.youtube.com/c/IohkIo"
                                         isStatic={[Function]}
                                         rel="noopener"
@@ -8467,14 +8713,14 @@ exports[`Footer it renders absolute children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <p>
           Absolute Children
         </p>
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <Atala
               lang="en"
@@ -8501,6 +8747,7 @@ exports[`Footer it renders absolute children as expected 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://atala.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -8555,10 +8802,12 @@ exports[`Footer it renders absolute children as expected 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/600/ 600w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/600/ 600w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="Atala logo"
@@ -8592,6 +8841,7 @@ exports[`Footer it renders absolute children as expected 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -8610,6 +8860,7 @@ exports[`Footer it renders absolute children as expected 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -8675,11 +8926,11 @@ exports[`Footer it renders children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoLag elaLGT"
+        className="sc-fzoyTs egxbTv"
       >
         <styled.div>
           <div
-            className="sc-fzoXzr cvtAp"
+            className="sc-fzoNJl hUqhIN"
           >
             <p>
               Children
@@ -8709,6 +8960,7 @@ exports[`Footer it renders children as expected 1`] = `
                               >
                                 <LinkInner
                                   component="a"
+                                  elRef={null}
                                   href="https://atala.io/"
                                   isStatic={[Function]}
                                   rel="noopener"
@@ -8763,10 +9015,12 @@ exports[`Footer it renders children as expected 1`] = `
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/webp/-/resize/600/ 600w"
+                                              type="image/webp"
                                             />
                                             <source
                                               sizes="(max-width: 400px) 80px, (max-width: 600px) 120px, (max-width: 800px) 160px, (max-width: 1000px) 200px, (max-width: 1500px) 300px, (max-width: 2000px) 400px, (max-width: 3000px) 600px, 100vw"
                                               srcSet="https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/80/ 80w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/120/ 120w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/160/ 160w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/200/ 200w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/300/ 300w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/400/ 400w, https://ucarecdn.com/eb936b4a-0589-4e89-b31c-bb1edf90ed9b/-/format/png/-/resize/600/ 600w"
+                                              type="image/png"
                                             />
                                             <img
                                               alt="Atala logo"
@@ -8800,6 +9054,7 @@ exports[`Footer it renders children as expected 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
@@ -8818,6 +9073,7 @@ exports[`Footer it renders children as expected 1`] = `
                             >
                               <LinkInner
                                 component="a"
+                                elRef={null}
                                 href="#"
                                 isStatic={[Function]}
                                 rel="noopener"
