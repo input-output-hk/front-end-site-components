@@ -5,6 +5,7 @@ import { Consumer as LanguageConsumer } from '@input-output-hk/front-end-core-co
 import Atala from './footers/Atala'
 import Cardano from './footers/Cardano'
 import IOHK from './footers/IOHK'
+import Daedalus from './footers/Daedalus'
 
 const FooterContainer = styled.footer`
   box-sizing: border-box;
@@ -21,7 +22,8 @@ const RelativeChildren = styled.div`
 const footerComponents = {
   atala: Atala,
   cardano: Cardano,
-  iohk: IOHK
+  iohk: IOHK,
+  daedalus: Daedalus
 }
 
 const Footer = ({ variant, children, absoluteChildren, theme = 'dark' }) => {
@@ -45,7 +47,8 @@ Footer.propTypes = {
   variant: PropTypes.oneOf([
     'iohk',
     'cardano',
-    'atala'
+    'atala',
+    'daedalus'
   ]).isRequired,
   children: PropTypes.node,
   absoluteChildren: PropTypes.node,
