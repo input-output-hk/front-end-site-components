@@ -40,8 +40,7 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
         { label: 'IOHK YouTube', href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w' },
         { label: 'Cardano Foundation YouTube', href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg' },
-        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' },
-        { label: 'info+en@cardano.org', href: 'mailto:info+en@cardano.org' }
+        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' }
       ]
     }
   },
@@ -86,8 +85,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
         { label: 'IOHK YouTube', href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w' },
         { label: 'Cardano Foundation YouTube', href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg' },
-        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' },
-        { label: 'info+en@cardano.org', href: 'mailto:info+en@cardano.org' }
+        { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' }
       ]
     }
   },
