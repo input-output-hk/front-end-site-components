@@ -1,23 +1,38 @@
 import { createGlobalStyle } from 'styled-components'
 import { getFontSize, getLetterSpacing } from '@input-output-hk/front-end-core-libraries/build/theme'
 
+function getProperty (key) {
+  return key.replace(/([A-Z])/g, (_, upper) => `-${upper.toLowerCase()}`)
+}
+
 function getResponsiveFontCSS (font, baseFontSize, defaultLetterSpacing) {
-  const keys = Object.keys(font).filter(key => key.match(/^@/))
+  let baseCSS = ''
+  const excludedKeys = [ 'font-family', 'font-size', 'font-weight', 'line-height', 'letter-spacing', 'text-transform' ]
+  const responsiveKeys = []
+  Object.keys(font).forEach(key => {
+    if (key.match(/^@/)) {
+      responsiveKeys.push(key)
+    } else if (!excludedKeys.includes(key)) {
+      baseCSS += `${getProperty(key)}: ${font[key]};`
+    }
+  })
+
   const responsiveConfig = {}
-  keys.forEach(key => {
+  responsiveKeys.forEach(key => {
     responsiveConfig[key] = { ...font[key] }
     if (responsiveConfig[key].fontSize !== undefined) responsiveConfig[key].fontSize = getFontSize(responsiveConfig[key].fontSize, baseFontSize)
     if (responsiveConfig[key].letterSpacing !== undefined) responsiveConfig[key].letterSpacing = getLetterSpacing(responsiveConfig[key].letterSpacing, defaultLetterSpacing)
   })
 
-  return Object.keys(responsiveConfig).map(query => {
+  const responsiveCSS = Object.keys(responsiveConfig).map(query => {
     const styles = Object.keys(responsiveConfig[query]).map(key => {
-      const property = key.replace(/([A-Z])/g, (_, upper) => `-${upper.toLowerCase()}`)
-      return `${property}: ${responsiveConfig[query][key]};`
+      return `${getProperty(key)}: ${responsiveConfig[query][key]};`
     }).join('')
 
     return `${query} { ${styles} }`
   }).join('')
+
+  return `${baseCSS}${responsiveCSS}`
 }
 
 function getNumericValue (value, defaultValue) {
