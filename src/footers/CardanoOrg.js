@@ -3,8 +3,6 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import { FaTwitter, FaFacebookF, FaYoutube, FaRss } from 'react-icons/fa'
 import { DiGithubBadge } from 'react-icons/di'
-import Markdown from '@input-output-hk/front-end-core-components/components/Markdown'
-import Image from '@input-output-hk/front-end-core-components/components/Image'
 import Link from '@input-output-hk/front-end-core-components/components/Link'
 import cardano from '../resources/footer/cardano-org'
 
@@ -132,6 +130,11 @@ const CardanoOrg = ({ lang, theme }) => {
           <Links>
             <p><strong>{content.socialLinks.title}</strong></p>
             <SocialLinks>
+              <SocialLink>
+                <Link title='Input Output HK Github' rel='noopener' href='https://github.com/input-output-hk/'>
+                  <DiGithubBadge size={20} />
+                </Link>
+              </SocialLink>
               <SocialLink>
                 <Link title='Input Output HK Twitter' rel='noopener' href='https://twitter.com/inputoutputHK'>
                   <FaTwitter size={20} />
