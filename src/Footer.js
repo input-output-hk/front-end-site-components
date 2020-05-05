@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import { Consumer as LanguageConsumer } from '@input-output-hk/front-end-core-components/components/Language'
 import Atala from './footers/Atala'
 import Cardano from './footers/Cardano'
+import CardanoOrg from './footers/CardanoOrg'
 import IOHK from './footers/IOHK'
 import Daedalus from './footers/Daedalus'
 
@@ -22,6 +23,7 @@ const RelativeChildren = styled.div`
 const footerComponents = {
   atala: Atala,
   cardano: Cardano,
+  cardanoorg: CardanoOrg,
   iohk: IOHK,
   daedalus: Daedalus
 }
@@ -47,6 +49,7 @@ Footer.propTypes = {
   variant: PropTypes.oneOf([
     'iohk',
     'cardano',
+    'cardanoorg',
     'atala',
     'daedalus'
   ]).isRequired,
