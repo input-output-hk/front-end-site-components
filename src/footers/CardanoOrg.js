@@ -66,7 +66,7 @@ const MainColumn = styled.div`
   ul {
     margin:1rem 0;
     li {
-      h3 {
+      h4 {
         margin:.5rem 0;
       }
     }
@@ -131,7 +131,7 @@ const CardanoOrg = ({ lang, theme }) => {
           <p><strong>{content.browseLinks.title}</strong></p>
           <ul>
             {content.browseLinks.links.map(({ href, label }) => (
-              <li key={`${href}_${label}`}><h3><Link href={href} rel='noopener'>{label}</Link></h3></li>
+              <li key={`${href}_${label}`}><h4><Link href={href} rel='noopener'>{label}</Link></h4></li>
             ))}
           </ul>
         </MainColumn>
@@ -170,7 +170,7 @@ const CardanoOrg = ({ lang, theme }) => {
           <p><strong>{content.partnersLinks.title}</strong></p>
           <ul>
             {content.partnersLinks.links.map(({ href, label }) => (
-              <li key={`${href}_${label}`}><h3><Link href={href} rel='noopener'>{label}</Link></h3></li>
+              <li key={`${href}_${label}`}><h4><Link href={href} rel='noopener'>{label}</Link></h4></li>
             ))}
           </ul>
         </MainColumn>
