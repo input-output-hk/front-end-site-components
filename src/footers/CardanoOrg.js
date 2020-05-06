@@ -6,12 +6,28 @@ import { DiGithubBadge } from 'react-icons/di'
 import Link from '@input-output-hk/front-end-core-components/components/Link'
 import cardano from '../resources/footer/cardano-org'
 
+const Circle = styled.span`
+  display:inline-block;
+  background:#667FF4;
+  color:#f1f2f2;
+  width:3rem;
+  height:3rem;
+  border-radius:5rem;
+  text-align:center;
+  line-height:2.2;
+  margin:0 .2rem 0 0;
+`
+
 const Container = styled.div`
   margin: 3rem 0;
   font-size:1.6rem;
+  a {
+    color:#667FF4;
+  }
 `
 
 const Columns = styled.div`
+  padding:1rem 0 2rem 0;
   div {
     vertical-align:top;
     ul {
@@ -25,11 +41,24 @@ const Columns = styled.div`
 const LogoColumn = styled.div`
   display:inline-block;
   width:8.33%;
+  @media (max-width:800px) {
+    text-align:center;
+    width:100%;
+  }
 `
 
 const MainColumn = styled.div`
   display:inline-block;
   width:30%;
+  @media (max-width:1080px) {
+    width:40%;
+  }
+  @media (max-width:860px) {
+    width:50%;
+  }
+  @media (max-width:800px) {
+    width:100%;
+  }
   ul {
     li {
       h3 {
@@ -42,11 +71,20 @@ const MainColumn = styled.div`
 const LinksColumn = styled.div`
   display:inline-block;
   width:60%;
+  @media (max-width:1080px) {
+    width:50%;
+  }
+  @media (max-width:860px) {
+    width:41%;
+  }
+  @media (max-width:800px) {
+    width:100%;
+  }
 `
 
 const Links = styled.div`
   display:inline-block;
-  width:30%;
+  width:33%;
 `
 
 const SocialLinks = styled.div`
@@ -54,10 +92,14 @@ const SocialLinks = styled.div`
 `
 
 const SocialLink = styled.div`
-  display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-left: 1rem;
+  padding-right: 1rem;
+  .github {
+    display:inline-block;
+    margin:-.8rem 0 0 -.5rem;
+    line-height:1;
+  }
 `
 
 const BottomLinks = styled.ul`
@@ -131,28 +173,28 @@ const CardanoOrg = ({ lang, theme }) => {
             <p><strong>{content.socialLinks.title}</strong></p>
             <SocialLinks>
               <SocialLink>
-                <Link title='Input Output HK Github' rel='noopener' href='https://github.com/input-output-hk/'>
-                  <DiGithubBadge size={20} />
-                </Link>
-              </SocialLink>
-              <SocialLink>
                 <Link title='Input Output HK Twitter' rel='noopener' href='https://twitter.com/inputoutputHK'>
-                  <FaTwitter size={20} />
+                  <Circle><FaTwitter size={16} /></Circle>
                 </Link>
               </SocialLink>
               <SocialLink>
                 <Link title='Input Output HK Facebook' rel='noopener' href='https://www.facebook.com/iohk.io/'>
-                  <FaFacebookF size={20} />
+                  <Circle><FaFacebookF size={16} /></Circle>
                 </Link>
               </SocialLink>
               <SocialLink>
                 <Link title='Input Output HK YouTube' rel='noopener' href='https://www.youtube.com/c/IohkIo'>
-                  <FaYoutube size={20} />
+                  <Circle><FaYoutube size={16} /></Circle>
                 </Link>
               </SocialLink>
               <SocialLink>
                 <Link title='Input Output HK Blog' rel='noopener' href='https://iohk.io/blog/'>
-                  <FaRss size={20} />
+                  <Circle><FaRss size={16} /></Circle>
+                </Link>
+              </SocialLink>
+              <SocialLink>
+                <Link title='Input Output HK Github' rel='noopener' className='github' href='https://github.com/input-output-hk/'>
+                  <DiGithubBadge size={45} />
                 </Link>
               </SocialLink>
             </SocialLinks>
