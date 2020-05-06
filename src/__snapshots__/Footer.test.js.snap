@@ -20,11 +20,11 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Atala
               lang="en"
@@ -231,11 +231,11 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Atala
               lang="en"
@@ -442,11 +442,11 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Atala
               lang="en"
@@ -652,11 +652,11 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="en"
@@ -1650,11 +1650,11 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="ja"
@@ -2637,11 +2637,11 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="ko"
@@ -3624,11 +3624,11 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="zh-cn"
@@ -4612,11 +4612,11 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="en"
@@ -5611,11 +5611,11 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Cardano
               lang="en"
@@ -6609,11 +6609,11 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <IOHK
               lang="en"
@@ -6623,15 +6623,15 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznxsB cRQjvq"
+                    className="sc-fznJRM yuoPK"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznJRM cBiFKF"
+                        className="sc-fznWqX MemAS"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzoiQi bhtVfE"
+                            className="sc-fzqARJ emOTsS"
                           >
                             <div>
                               <ForwardRef
@@ -6720,17 +6720,17 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fznWqX OKqNe"
+                        className="sc-fzoiQi bARSMg"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ faJajr"
+                            className="sc-fzqNqU dKIjfI"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -6878,7 +6878,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7049,7 +7049,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7151,7 +7151,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7309,11 +7309,11 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <IOHK
               lang="en"
@@ -7323,15 +7323,15 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznxsB cRQjvq"
+                    className="sc-fznJRM yuoPK"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznJRM cBiFKF"
+                        className="sc-fznWqX MemAS"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzoiQi bhtVfE"
+                            className="sc-fzqARJ emOTsS"
                           >
                             <div>
                               <ForwardRef
@@ -7420,17 +7420,17 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fznWqX OKqNe"
+                        className="sc-fzoiQi bARSMg"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ faJajr"
+                            className="sc-fzqNqU dKIjfI"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7578,7 +7578,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7749,7 +7749,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -7851,7 +7851,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -8009,11 +8009,11 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <IOHK
               lang="en"
@@ -8023,15 +8023,15 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznxsB cRQjvq"
+                    className="sc-fznJRM yuoPK"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznJRM cBiFKF"
+                        className="sc-fznWqX MemAS"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzoiQi bhtVfE"
+                            className="sc-fzqARJ emOTsS"
                           >
                             <div>
                               <ForwardRef
@@ -8120,17 +8120,17 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fznWqX OKqNe"
+                        className="sc-fzoiQi bARSMg"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ faJajr"
+                            className="sc-fzqNqU dKIjfI"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -8278,7 +8278,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -8449,7 +8449,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -8551,7 +8551,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzqNqU jpKFCB"
+                                className="sc-fzoyTs dBYYCH"
                               >
                                 <ul>
                                   <li
@@ -8713,14 +8713,14 @@ exports[`Footer it renders absolute children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <p>
           Absolute Children
         </p>
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <Atala
               lang="en"
@@ -8926,11 +8926,11 @@ exports[`Footer it renders children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzqPZZ gkhyNT"
+        className="sc-fzoxKX dOHEFq"
       >
         <styled.div>
           <div
-            className="sc-fzoxKX ithndW"
+            className="sc-fzoKki ejyaCo"
           >
             <p>
               Children
