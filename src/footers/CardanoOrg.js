@@ -30,9 +30,13 @@ const Columns = styled.div`
   padding:1rem 0 2rem 0;
   div {
     vertical-align:top;
+    p {
+      margin:0;
+    }
     ul {
       list-style-type:none;
       padding:0;
+      margin:.8rem 0;
       line-height:2;
     }
   }
@@ -60,6 +64,7 @@ const MainColumn = styled.div`
     width:100%;
   }
   ul {
+    margin:1rem 0;
     li {
       h3 {
         margin:.5rem 0;
@@ -89,6 +94,7 @@ const Links = styled.div`
 
 const SocialLinks = styled.div`
   display: flex;
+  margin:1.4rem 0;
 `
 
 const SocialLink = styled.div`
