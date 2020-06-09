@@ -34,7 +34,8 @@ export default {
       title: 'Community',
       links: [
         { label: 'Forums', href: 'https://forum.cardano.org/' },
-        { label: 'Ambassadors', href: '#' }
+        { label: 'Ambassadors', href: '#' },
+        { label: 'Newsletter', href: '/newsletter/' }
       ]
     },
     socialLinks: {
@@ -43,7 +44,7 @@ export default {
     bottomLinks: {
       links: [
         { label: '® Cardano', href: '/' },
-        { label: 'Terms', href: '#' },
+        { label: 'Legal Disclaimer', href: '/legal-disclaimer/' },
         { label: 'Privacy policy', href: '#' }
       ]
     }
