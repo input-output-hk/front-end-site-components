@@ -41,7 +41,7 @@ export default {
     },
     bottomLinks: {
       links: [
-        { label: '® Cardano' },
+        { label: '® Cardano', href: '#' },
         { label: 'Terms', href: 'https://cardanofoundation.org/assets/docs/TermsOfUse.pdf' },
         { label: 'Privacy policy', href: 'https://cardanofoundation.org/assets/docs/PrivacyPolicy.pdf' },
         { label: 'Token redemption', href: '/token-redemption/' }
