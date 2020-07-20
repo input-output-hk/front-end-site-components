@@ -21,7 +21,6 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'Cardano Explorer', href: 'https://cardanoexplorer.com/' },
         { label: 'Cardano Foundation', href: 'https://cardanofoundation.org/' },
         { label: 'Documentation', href: 'https://cardanodocs.com/introduction/' },
-        { label: 'Cardano SL Source', href: 'https://github.com/input-output-hk/cardano-sl' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Why Cardano', href: 'https://cardano.org/why/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io/' },
@@ -66,7 +65,6 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'Cardanoエクスプローラー', href: 'https://cardanoexplorer.com/' },
         { label: 'Cardano財団', href: 'https://cardanofoundation.org/' },
         { label: 'ドキュメンテーション', href: 'https://cardanodocs.com/introduction/' },
-        { label: 'Cardano SLソース', href: 'https://github.com/input-output-hk/cardano-sl' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io' },
         { label: 'Cardanoを選ぶ理由', href: 'https://cardano.org/why/jp' },
@@ -111,10 +109,6 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
         {
           'href': 'https://cardanodocs.com/introduction/',
           'label': '문서'
-        },
-        {
-          'href': 'https://github.com/input-output-hk/cardano-sl',
-          'label': 'Cardano SL source'
         },
         {
           'href': 'https://whycardano.com/',
@@ -202,10 +196,6 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
         {
           'href': 'https://cardanodocs.com/introduction/cn/',
           'label': '文档'
-        },
-        {
-          'href': 'https://github.com/input-output-hk/cardano-sl',
-          'label': 'Cardano SL来源'
         },
         {
           'href': 'https://whycardano.com/cn/',
