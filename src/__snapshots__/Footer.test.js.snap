@@ -1260,20 +1260,20 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/_Why Cardano"
+                                key="https://why.cardano.org/_Why Cardano"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/"
+                                  href="https://why.cardano.org/"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/"
+                                    href="https://why.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/"
+                                      href="https://why.cardano.org/"
                                       rel="noopener"
                                     >
                                       Why Cardano
@@ -1321,28 +1321,6 @@ _Past performance is not indicative of future results. Any investment in blockch
                                       rel="noopener"
                                     >
                                       Cardano Testnets
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io/_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io/"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io/"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io/"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>
@@ -2223,20 +2201,20 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/jp/_Cardanoを選ぶ理由"
+                                key="https://why.cardano.org_Cardanoを選ぶ理由"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/jp/"
+                                  href="https://why.cardano.org"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/jp/"
+                                    href="https://why.cardano.org"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/jp/"
+                                      href="https://why.cardano.org"
                                       rel="noopener"
                                     >
                                       Cardanoを選ぶ理由
@@ -2262,28 +2240,6 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                                       rel="noopener"
                                     >
                                       Cardanoテストネット
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io/_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io/"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io/"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io/"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>
@@ -3120,20 +3076,20 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/_왜 Cardano인가"
+                                key="https://why.cardano.org/_왜 Cardano인가"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/"
+                                  href="https://why.cardano.org/"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/"
+                                    href="https://why.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/"
+                                      href="https://why.cardano.org/"
                                       rel="noopener"
                                     >
                                       왜 Cardano인가
@@ -3203,28 +3159,6 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                                       rel="noopener"
                                     >
                                       Cardano 테스트넷
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>
@@ -4061,20 +3995,20 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/cn/_为何选择Cardano"
+                                key="https://why.cardano.org/_为何选择Cardano"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/cn/"
+                                  href="https://why.cardano.org/"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/cn/"
+                                    href="https://why.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/cn/"
+                                      href="https://why.cardano.org/"
                                       rel="noopener"
                                     >
                                       为何选择Cardano
@@ -4144,28 +4078,6 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                                       rel="noopener"
                                     >
                                       Cardano Testnets
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>
@@ -5036,20 +4948,20 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/_Why Cardano"
+                                key="https://why.cardano.org/_Why Cardano"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/"
+                                  href="https://why.cardano.org/"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/"
+                                    href="https://why.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/"
+                                      href="https://why.cardano.org/"
                                       rel="noopener"
                                     >
                                       Why Cardano
@@ -5097,28 +5009,6 @@ _Past performance is not indicative of future results. Any investment in blockch
                                       rel="noopener"
                                     >
                                       Cardano Testnets
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io/_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io/"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io/"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io/"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>
@@ -5989,20 +5879,20 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 </ForwardRef>
                               </li>
                               <li
-                                key="https://whycardano.com/_Why Cardano"
+                                key="https://why.cardano.org/_Why Cardano"
                               >
                                 <ForwardRef
-                                  href="https://whycardano.com/"
+                                  href="https://why.cardano.org/"
                                   rel="noopener"
                                 >
                                   <ForwardRef
                                     component="a"
-                                    href="https://whycardano.com/"
+                                    href="https://why.cardano.org/"
                                     isStatic={[Function]}
                                     rel="noopener"
                                   >
                                     <a
-                                      href="https://whycardano.com/"
+                                      href="https://why.cardano.org/"
                                       rel="noopener"
                                     >
                                       Why Cardano
@@ -6050,28 +5940,6 @@ _Past performance is not indicative of future results. Any investment in blockch
                                       rel="noopener"
                                     >
                                       Cardano Testnets
-                                    </a>
-                                  </ForwardRef>
-                                </ForwardRef>
-                              </li>
-                              <li
-                                key="https://cardanorust.iohkdev.io/_Cardano Rust"
-                              >
-                                <ForwardRef
-                                  href="https://cardanorust.iohkdev.io/"
-                                  rel="noopener"
-                                >
-                                  <ForwardRef
-                                    component="a"
-                                    href="https://cardanorust.iohkdev.io/"
-                                    isStatic={[Function]}
-                                    rel="noopener"
-                                  >
-                                    <a
-                                      href="https://cardanorust.iohkdev.io/"
-                                      rel="noopener"
-                                    >
-                                      Cardano Rust
                                     </a>
                                   </ForwardRef>
                                 </ForwardRef>

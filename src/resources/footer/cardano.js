@@ -14,10 +14,9 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'Cardano Foundation', href: 'https://cardanofoundation.org/' },
         { label: 'Documentation', href: 'https://cardanodocs.com/introduction/' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
-        { label: 'Why Cardano', href: 'https://whycardano.com/' },
+        { label: 'Why Cardano', href: 'https://why.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io/' },
-        { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' },
-        { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' }
+        { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' }
       ]
     },
     communityLinks: {
@@ -51,9 +50,8 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'ドキュメンテーション', href: 'https://cardanodocs.com/introduction/' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io' },
-        { label: 'Cardanoを選ぶ理由', href: 'https://whycardano.com/jp/' },
-        { label: 'Cardanoテストネット', href: 'https://testnet.iohkdev.io/' },
-        { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' }
+        { label: 'Cardanoを選ぶ理由', href: 'https://why.cardano.org' },
+        { label: 'Cardanoテストネット', href: 'https://testnet.iohkdev.io/' }
       ]
     },
     communityLinks: {
@@ -95,7 +93,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
           'label': '문서'
         },
         {
-          'href': 'https://whycardano.com/',
+          'href': 'https://why.cardano.org/',
           'label': '왜 Cardano인가'
         },
         {
@@ -109,10 +107,6 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
         {
           'href': 'https://testnet.iohkdev.io',
           'label': 'Cardano 테스트넷'
-        },
-        {
-          'href': 'https://cardanorust.iohkdev.io',
-          'label': 'Cardano Rust'
         }
       ]
     },
@@ -182,7 +176,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
           'label': '文档'
         },
         {
-          'href': 'https://whycardano.com/cn/',
+          'href': 'https://why.cardano.org/',
           'label': '为何选择Cardano'
         },
         {
@@ -196,10 +190,6 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
         {
           'href': 'https://testnet.iohkdev.io',
           'label': 'Cardano Testnets'
-        },
-        {
-          'href': 'https://cardanorust.iohkdev.io',
-          'label': 'Cardano Rust'
         }
       ]
     },
