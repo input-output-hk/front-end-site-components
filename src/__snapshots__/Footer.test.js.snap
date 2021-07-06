@@ -20,11 +20,11 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Atala
               lang="en"
@@ -34,15 +34,15 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-AxjAm hGzCYX"
+                    className="sc-bdnxRM aVCwN"
                   >
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxiKw hfCWbk"
+                            className="sc-dlnjwi dkpakU"
                           >
                             <div>
                               <ForwardRef
@@ -132,11 +132,11 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                       flex={1.5}
                     >
                       <div
-                        className="sc-AxirZ eJwHMX"
+                        className="sc-gtsrHT cuATEr"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhCb iagyUu"
+                            className="sc-hKFxyN etlLJu"
                           >
                             <ForwardRef
                               href="#"
@@ -180,15 +180,15 @@ exports[`Footer Atala variant it renders correctly for en 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhUy bwtdWv"
+                            className="sc-eCApnc dekRhy"
                           >
                             <p>
                               Copyright ® 
-                              2020
+                              2021
                                atala.io
                             </p>
                           </div>
@@ -228,11 +228,11 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Atala
               lang="en"
@@ -242,15 +242,15 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-AxjAm hGzCYX"
+                    className="sc-bdnxRM aVCwN"
                   >
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxiKw hfCWbk"
+                            className="sc-dlnjwi dkpakU"
                           >
                             <div>
                               <ForwardRef
@@ -340,11 +340,11 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                       flex={1.5}
                     >
                       <div
-                        className="sc-AxirZ eJwHMX"
+                        className="sc-gtsrHT cuATEr"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhCb iagyUu"
+                            className="sc-hKFxyN etlLJu"
                           >
                             <ForwardRef
                               href="#"
@@ -388,15 +388,15 @@ exports[`Footer Atala variant it renders with the dark theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhUy bwtdWv"
+                            className="sc-eCApnc dekRhy"
                           >
                             <p>
                               Copyright ® 
-                              2020
+                              2021
                                atala.io
                             </p>
                           </div>
@@ -436,11 +436,11 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Atala
               lang="en"
@@ -450,15 +450,15 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-AxjAm hGzCYX"
+                    className="sc-bdnxRM aVCwN"
                   >
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxiKw hfCWbk"
+                            className="sc-dlnjwi dkpakU"
                           >
                             <div>
                               <ForwardRef
@@ -548,11 +548,11 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                       flex={1.5}
                     >
                       <div
-                        className="sc-AxirZ eJwHMX"
+                        className="sc-gtsrHT cuATEr"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhCb iagyUu"
+                            className="sc-hKFxyN etlLJu"
                           >
                             <ForwardRef
                               href="#"
@@ -596,15 +596,15 @@ exports[`Footer Atala variant it renders with the light theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhUy bwtdWv"
+                            className="sc-eCApnc dekRhy"
                           >
                             <p>
                               Copyright ® 
-                              2020
+                              2021
                                atala.io
                             </p>
                           </div>
@@ -643,11 +643,11 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="en"
@@ -655,20 +655,20 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -732,11 +732,11 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -830,11 +830,11 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -893,7 +893,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -952,7 +952,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -1011,7 +1011,7 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -1077,14 +1077,14 @@ exports[`Footer Cardano variant it renders correctly for en 1`] = `
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
                           source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -1100,7 +1100,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                             source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -1127,9 +1127,9 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 <TextRenderer
                                   key="text-4-1-0"
                                   nodeKey="text-4-1-0"
-                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
+                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
                                 >
-                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
                                 </TextRenderer>
                               </p>
                               <p
@@ -1163,7 +1163,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -1330,7 +1330,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -1573,11 +1573,11 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="ja"
@@ -1585,20 +1585,20 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -1662,11 +1662,11 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -1760,11 +1760,11 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -1823,7 +1823,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -1882,7 +1882,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -1941,7 +1941,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -2007,7 +2007,7 @@ exports[`Footer Cardano variant it renders correctly for ja 1`] = `
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
@@ -2082,7 +2082,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -2249,7 +2249,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -2492,11 +2492,11 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="ko"
@@ -2504,20 +2504,20 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -2581,11 +2581,11 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -2679,11 +2679,11 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -2742,7 +2742,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -2801,7 +2801,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -2860,7 +2860,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -2926,7 +2926,7 @@ exports[`Footer Cardano variant it renders correctly for ko 1`] = `
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
@@ -3001,7 +3001,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -3168,7 +3168,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -3411,11 +3411,11 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="zh-cn"
@@ -3423,20 +3423,20 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -3500,11 +3500,11 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -3598,11 +3598,11 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -3661,7 +3661,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -3720,7 +3720,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -3779,7 +3779,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -3845,7 +3845,7 @@ exports[`Footer Cardano variant it renders correctly for zh-cn 1`] = `
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
@@ -3920,7 +3920,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -4087,7 +4087,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -4331,11 +4331,11 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="en"
@@ -4343,20 +4343,20 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -4420,11 +4420,11 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -4518,11 +4518,11 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -4581,7 +4581,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -4640,7 +4640,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -4699,7 +4699,7 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -4765,14 +4765,14 @@ exports[`Footer Cardano variant it renders with the dark theme correctly 1`] = `
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
                           source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -4788,7 +4788,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                             source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -4815,9 +4815,9 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 <TextRenderer
                                   key="text-4-1-0"
                                   nodeKey="text-4-1-0"
-                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
+                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
                                 >
-                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
                                 </TextRenderer>
                               </p>
                               <p
@@ -4851,7 +4851,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -5018,7 +5018,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -5262,11 +5262,11 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Cardano
               lang="en"
@@ -5274,20 +5274,20 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
             >
               <styled.div>
                 <div
-                  className="sc-AxgMl jthoeH"
+                  className="sc-jSFjdj iWUZqt"
                 >
                   <styled.div>
                     <div
-                      className="sc-AxheI lajdxA"
+                      className="sc-gKAaRy gqglaQ"
                     >
                       <styled.div>
                         <div
-                          className="sc-AxmLO gLkMBo"
+                          className="sc-fujyAs biKRmz"
                         >
                           <div>
                             <p>
                               © IOHK 2015 - 
-                              2020
+                              2021
                             </p>
                           </div>
                           <div>
@@ -5351,11 +5351,11 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                       </styled.div>
                       <styled.div>
                         <div
-                          className="sc-fzozJi ckirEy"
+                          className="sc-pNWdM fEHZvi"
                         >
                           <styled.div>
                             <div
-                              className="sc-fzoLsD pFNkj"
+                              className="sc-jrsJWt cqVUuT"
                             >
                               <ForwardRef
                                 href="https://iohk.io/"
@@ -5449,11 +5449,11 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                           </styled.div>
                           <styled.div>
                             <div
-                              className="sc-fzpans kLztrW"
+                              className="sc-kEqXSa jsxILd"
                             >
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://twitter.com/inputoutputHK"
@@ -5512,7 +5512,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.facebook.com/iohk.io/"
@@ -5571,7 +5571,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://www.youtube.com/c/IohkIo"
@@ -5630,7 +5630,7 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                               </styled.div>
                               <styled.div>
                                 <div
-                                  className="sc-fzplWN ifmFBM"
+                                  className="sc-iqAclL cXLETJ"
                                 >
                                   <ForwardRef
                                     href="https://iohk.io/blog/"
@@ -5696,14 +5696,14 @@ exports[`Footer Cardano variant it renders with the light theme correctly 1`] = 
                   <hr />
                   <styled.div>
                     <div
-                      className="sc-Axmtr izgiaE"
+                      className="sc-iCoGMd lnsJSr"
                     >
                       <div>
                         <Markdown
                           source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -5719,7 +5719,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                             source="
 Cardano is an open-source project.
 
-Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
 
 _Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks_
     "
@@ -5746,9 +5746,9 @@ _Past performance is not indicative of future results. Any investment in blockch
                                 <TextRenderer
                                   key="text-4-1-0"
                                   nodeKey="text-4-1-0"
-                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
+                                  value="Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange."
                                 >
-                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgment, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
+                                  Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange.
                                 </TextRenderer>
                               </p>
                               <p
@@ -5782,7 +5782,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                       <div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -5949,7 +5949,7 @@ _Past performance is not indicative of future results. Any investment in blockch
                         </styled.div>
                         <styled.div>
                           <div
-                            className="sc-fznyAO jukvjo"
+                            className="sc-crzoAE knhPfn"
                           >
                             <p>
                               <strong>
@@ -6192,11 +6192,11 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <IOHK
               lang="en"
@@ -6206,15 +6206,15 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznJRM yuoPK"
+                    className="sc-dlMDgC fGeOnO"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznWqX MemAS"
+                        className="sc-kfYoZR cMraJb"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ emOTsS"
+                            className="sc-bCwfaz cSNeov"
                           >
                             <div>
                               <ForwardRef
@@ -6302,17 +6302,17 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fzoiQi bARSMg"
+                        className="sc-fKgJPI kCSqat"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqNqU dKIjfI"
+                            className="sc-iwajpm dhSsYN"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -6454,7 +6454,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -6618,7 +6618,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -6716,7 +6716,7 @@ exports[`Footer IOHK variant it renders correctly for en 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -6869,11 +6869,11 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <IOHK
               lang="en"
@@ -6883,15 +6883,15 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznJRM yuoPK"
+                    className="sc-dlMDgC fGeOnO"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznWqX MemAS"
+                        className="sc-kfYoZR cMraJb"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ emOTsS"
+                            className="sc-bCwfaz cSNeov"
                           >
                             <div>
                               <ForwardRef
@@ -6979,17 +6979,17 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fzoiQi bARSMg"
+                        className="sc-fKgJPI kCSqat"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqNqU dKIjfI"
+                            className="sc-iwajpm dhSsYN"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7131,7 +7131,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7295,7 +7295,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7393,7 +7393,7 @@ exports[`Footer IOHK variant it renders with the dark theme correctly 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7546,11 +7546,11 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <IOHK
               lang="en"
@@ -7560,15 +7560,15 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-fznJRM yuoPK"
+                    className="sc-dlMDgC fGeOnO"
                   >
                     <styled.div>
                       <div
-                        className="sc-fznWqX MemAS"
+                        className="sc-kfYoZR cMraJb"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqARJ emOTsS"
+                            className="sc-bCwfaz cSNeov"
                           >
                             <div>
                               <ForwardRef
@@ -7656,17 +7656,17 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-fzoiQi bARSMg"
+                        className="sc-fKgJPI kCSqat"
                       >
                         <styled.div>
                           <div
-                            className="sc-fzqNqU dKIjfI"
+                            className="sc-iwajpm dhSsYN"
                           >
                             <styled.div
                               key="[{\\"label\\":\\"Home\\",\\"href\\":\\"https://iohk.io/en/\\"},{\\"label\\":\\"About\\",\\"href\\":\\"https://iohk.io/en/about/\\"},{\\"label\\":\\"Team\\",\\"href\\":\\"https://iohk.io/en/team/\\"},{\\"label\\":\\"Contact\\",\\"href\\":\\"https://iohk.io/en/contact/\\"},{\\"label\\":\\"Careers\\",\\"href\\":\\"https://iohk.io/en/careers/\\"},{\\"label\\":\\"Data protection\\",\\"href\\":\\"https://ucarecdn.com/6b3cfda0-9864-4319-8e97-2ffd73ca84a8/-/inline/yes/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7808,7 +7808,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Cardano\\",\\"href\\":\\"https://iohk.io/en/projects/cardano/\\"},{\\"label\\":\\"Daedalus\\",\\"href\\":\\"https://iohk.io/en/projects/daedalus/\\"},{\\"label\\":\\"Ethereum Classic\\",\\"href\\":\\"https://iohk.io/en/projects/ethereum-classic/\\"},{\\"label\\":\\"Qeditas\\",\\"href\\":\\"https://iohk.io/en/projects/qeditas/\\"},{\\"label\\":\\"Scorex\\",\\"href\\":\\"https://iohk.io/en/projects/scorex/\\"},{\\"label\\":\\"RS|Coin\\",\\"href\\":\\"https://iohk.io/en/projects/rscoin/\\"},{\\"label\\":\\"Symphony\\",\\"href\\":\\"https://iohk.io/en/projects/symphony/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -7972,7 +7972,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Research\\",\\"href\\":\\"https://iohk.io/en/research/\\"},{\\"label\\":\\"Library\\",\\"href\\":\\"https://iohk.io/en/research/library/\\"},{\\"label\\":\\"Blog\\",\\"href\\":\\"https://iohk.io/en/blog/\\"},{\\"label\\":\\"Feed\\",\\"href\\":\\"https://iohk.io/en/feed/\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -8070,7 +8070,7 @@ exports[`Footer IOHK variant it renders with the light theme correctly 1`] = `
                               key="[{\\"label\\":\\"Twitter\\",\\"href\\":\\"https://twitter.com/inputoutputHK\\"},{\\"label\\":\\"Facebook\\",\\"href\\":\\"https://www.facebook.com/iohk.io/\\"},{\\"label\\":\\"GitHub\\",\\"href\\":\\"https://www.github.com/input-output-hk\\"},{\\"label\\":\\"LinkedIn\\",\\"href\\":\\"https://www.linkedin.com/company/input-output-global/\\"},{\\"label\\":\\"YouTube\\",\\"href\\":\\"https://www.youtube.com/c/IohkIo\\"}]"
                             >
                               <div
-                                className="sc-fzoyTs dBYYCH"
+                                className="sc-cxNHIi jflGuh"
                               >
                                 <ul>
                                   <li
@@ -8227,14 +8227,14 @@ exports[`Footer it renders absolute children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <p>
           Absolute Children
         </p>
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <Atala
               lang="en"
@@ -8244,15 +8244,15 @@ exports[`Footer it renders absolute children as expected 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-AxjAm hGzCYX"
+                    className="sc-bdnxRM aVCwN"
                   >
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxiKw hfCWbk"
+                            className="sc-dlnjwi dkpakU"
                           >
                             <div>
                               <ForwardRef
@@ -8342,11 +8342,11 @@ exports[`Footer it renders absolute children as expected 1`] = `
                       flex={1.5}
                     >
                       <div
-                        className="sc-AxirZ eJwHMX"
+                        className="sc-gtsrHT cuATEr"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhCb iagyUu"
+                            className="sc-hKFxyN etlLJu"
                           >
                             <ForwardRef
                               href="#"
@@ -8390,15 +8390,15 @@ exports[`Footer it renders absolute children as expected 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhUy bwtdWv"
+                            className="sc-eCApnc dekRhy"
                           >
                             <p>
                               Copyright ® 
-                              2020
+                              2021
                                atala.io
                             </p>
                           </div>
@@ -8437,11 +8437,11 @@ exports[`Footer it renders children as expected 1`] = `
   >
     <styled.footer>
       <footer
-        className="sc-fzoxKX dOHEFq"
+        className="sc-gXfVKN kcGuyy"
       >
         <styled.div>
           <div
-            className="sc-fzoKki ejyaCo"
+            className="sc-cBoqAE glDCcH"
           >
             <p>
               Children
@@ -8454,15 +8454,15 @@ exports[`Footer it renders children as expected 1`] = `
                 <hr />
                 <styled.div>
                   <div
-                    className="sc-AxjAm hGzCYX"
+                    className="sc-bdnxRM aVCwN"
                   >
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxiKw hfCWbk"
+                            className="sc-dlnjwi dkpakU"
                           >
                             <div>
                               <ForwardRef
@@ -8552,11 +8552,11 @@ exports[`Footer it renders children as expected 1`] = `
                       flex={1.5}
                     >
                       <div
-                        className="sc-AxirZ eJwHMX"
+                        className="sc-gtsrHT cuATEr"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhCb iagyUu"
+                            className="sc-hKFxyN etlLJu"
                           >
                             <ForwardRef
                               href="#"
@@ -8600,15 +8600,15 @@ exports[`Footer it renders children as expected 1`] = `
                     </styled.div>
                     <styled.div>
                       <div
-                        className="sc-AxirZ hHcSs"
+                        className="sc-gtsrHT kTosdM"
                       >
                         <styled.div>
                           <div
-                            className="sc-AxhUy bwtdWv"
+                            className="sc-eCApnc dekRhy"
                           >
                             <p>
                               Copyright ® 
-                              2020
+                              2021
                                atala.io
                             </p>
                           </div>
