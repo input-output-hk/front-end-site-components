@@ -12,9 +12,8 @@ _Past performance is not indicative of future results. Any investment in blockch
       links: [
         { label: 'Cardano Explorer', href: 'https://cardanoexplorer.com/' },
         { label: 'Cardano Foundation', href: 'https://cardanofoundation.org/' },
-        { label: 'Documentation', href: 'https://cardanodocs.com/introduction/' },
+        { label: 'Documentation', href: 'https://docs.cardano.org/' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
-        { label: 'Why Cardano', href: 'https://why.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io/' },
         { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' }
       ]
@@ -22,13 +21,13 @@ _Past performance is not indicative of future results. Any investment in blockch
     communityLinks: {
       title: 'Join the community',
       links: [
-        { label: 'Cardano Community', href: 'https://cardano.org/' },
         { label: 'Cardano Telegram', href: 'https://t.me/CardanoAnnouncements/' },
         { label: 'Cardano Forum', href: 'https://forum.cardano.org/' },
         { label: 'Cardano Reddit', href: 'https://www.reddit.com/r/cardano/' },
         { label: 'IOHK', href: 'https://www.iohk.io/' },
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
-        { label: 'IOHK YouTube', href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w' },
+        { label: 'IOHK YouTube', href: 'https://www.youtube.com/c/IohkIo/' },
+        { label: 'IOHK Twitter', href: 'https://twitter.com/InputOutputHK/' },
         { label: 'Cardano Foundation YouTube', href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg' },
         { label: 'Cardano Foundation Twitter', href: 'https://twitter.com/cardanostiftung' }
       ]
