@@ -206,7 +206,9 @@ const Daedalus = ({ lang, theme }) => {
           <div>
             <a href={content.terms_of_service.href}>{content.terms_of_service.label}</a>
             {` | `}
-            <a href={content.release_notes.href} target='_blank'>{content.release_notes.label}</a>
+            <a href={content.terms_of_service.href}>{content.terms_of_service.label}</a>
+            {` | `}
+            <a href={content.data_protection.href} target='_blank'>{content.data_protection.label}</a>
           </div>
         </div>
         <div>
