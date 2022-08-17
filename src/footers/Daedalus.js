@@ -65,7 +65,7 @@ const BottomRow = styled.div`
 
 const Copyright = styled.div`
   display: flex;
-  
+
   > div {
     display: flex;
     flex-direction: column;
@@ -148,9 +148,11 @@ const LinksColumn = styled.div`
 
 const Daedalus = ({ lang, theme }) => {
   const content = daedalus[lang]
-  if (!content) throw new Error(`No content for Cardano footer in language "${lang}"`)
+  if (!content)
+    throw new Error(`No content for Cardano footer in language "${lang}"`)
   let logoURL = 'https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/'
-  if (theme === 'dark') logoURL = 'https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/'
+  if (theme === 'dark')
+    logoURL = 'https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/'
   return (
     <Container>
       <TopRow>
@@ -159,16 +161,29 @@ const Daedalus = ({ lang, theme }) => {
             <p>© Daedalus Wallet 2015 - {new Date().getFullYear()}</p>
           </div>
           <div>
-            <Link rel='noopener' title='Input Output HK GitHub' href='https://github.com/input-output-hk'>
+            <Link
+              rel="noopener"
+              title="Input Output HK GitHub"
+              href="https://github.com/input-output-hk"
+            >
               <DiGithubBadge size={25} />
             </Link>
           </div>
         </Copyright>
         <TopRight>
           <Logo>
-            <Link rel='noopener' href='https://iohk.io/' title='Input Output HK'>
+            <Link
+              rel="noopener"
+              href="https://iohk.io/"
+              title="Input Output HK"
+            >
               <div>
-                <Image src={logoURL} alt='IOHK logo' sizeFactor={0.14} maintainTransparency />
+                <Image
+                  src={logoURL}
+                  alt="IOHK logo"
+                  sizeFactor={0.14}
+                  maintainTransparency
+                />
               </div>
               <div>
                 <p>IOHK supported project</p>
@@ -177,22 +192,38 @@ const Daedalus = ({ lang, theme }) => {
           </Logo>
           <SocialLinks>
             <SocialLink>
-              <Link title='Input Output HK Twitter' rel='noopener' href='https://twitter.com/inputoutputHK'>
+              <Link
+                title="Input Output HK Twitter"
+                rel="noopener"
+                href="https://twitter.com/inputoutputHK"
+              >
                 <FaTwitter size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
-              <Link title='Input Output HK Facebook' rel='noopener' href='https://www.facebook.com/iohk.io/'>
+              <Link
+                title="Input Output HK Facebook"
+                rel="noopener"
+                href="https://www.facebook.com/iohk.io/"
+              >
                 <FaFacebookF size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
-              <Link title='Input Output HK YouTube' rel='noopener' href='https://www.youtube.com/c/IohkIo'>
+              <Link
+                title="Input Output HK YouTube"
+                rel="noopener"
+                href="https://www.youtube.com/c/IohkIo"
+              >
                 <FaYoutube size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
-              <Link title='Input Output HK Blog' rel='noopener' href='https://iohk.io/blog/'>
+              <Link
+                title="Input Output HK Blog"
+                rel="noopener"
+                href="https://iohk.io/blog/"
+              >
                 <FaRss size={20} />
               </Link>
             </SocialLink>
@@ -201,30 +232,48 @@ const Daedalus = ({ lang, theme }) => {
       </TopRow>
       <hr />
       <BottomRow>
-        <div className='body-text'>
+        <div className="body-text">
           <Markdown source={content.body} />
           <div>
-            <a href={content.terms_of_service.href}>{content.terms_of_service.label}</a>
+            <a href={content.terms_of_service.href}>
+              {content.terms_of_service.label}
+            </a>
             {` | `}
-            <a href={content.terms_of_service.href}>{content.terms_of_service.label}</a>
+            <a href={content.data_protection.href}>
+              {content.data_protection.label}
+            </a>
             {` | `}
-            <a href={content.data_protection.href} target='_blank'>{content.data_protection.label}</a>
+            <a href={content.release_notes.href} target="_blank">
+              {content.release_notes.label}
+            </a>
           </div>
         </div>
         <div>
           <LinksColumn>
-            <p><strong>{content.cardanoLinks.title}</strong></p>
+            <p>
+              <strong>{content.cardanoLinks.title}</strong>
+            </p>
             <ul>
               {content.cardanoLinks.links.map(({ href, label }) => (
-                <li key={`${href}_${label}`}><Link href={href} rel='noopener'>{label}</Link></li>
+                <li key={`${href}_${label}`}>
+                  <Link href={href} rel="noopener">
+                    {label}
+                  </Link>
+                </li>
               ))}
             </ul>
           </LinksColumn>
           <LinksColumn>
-            <p><strong>{content.communityLinks.title}</strong></p>
+            <p>
+              <strong>{content.communityLinks.title}</strong>
+            </p>
             <ul>
               {content.communityLinks.links.map(({ href, label }) => (
-                <li key={`${href}_${label}`}><Link href={href} rel='noopener'>{label}</Link></li>
+                <li key={`${href}_${label}`}>
+                  <Link href={href} rel="noopener">
+                    {label}
+                  </Link>
+                </li>
               ))}
             </ul>
           </LinksColumn>
@@ -236,7 +285,7 @@ const Daedalus = ({ lang, theme }) => {
 
 Daedalus.propTypes = {
   lang: PropTypes.string.isRequired,
-  theme: PropTypes.oneOf([ 'dark', 'light' ]).isRequired
+  theme: PropTypes.oneOf(['dark', 'light']).isRequired,
 }
 
 export default Daedalus
