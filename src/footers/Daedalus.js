@@ -235,15 +235,27 @@ const Daedalus = ({ lang, theme }) => {
         <div className="body-text">
           <Markdown source={content.body} />
           <div>
-            <a href={content.terms_of_service.href}>
+            <a
+              href={content.terms_of_service.href}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               {content.terms_of_service.label}
             </a>
             {` | `}
-            <a href={content.data_protection.href}>
+            <a
+              href={content.data_protection.href}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               {content.data_protection.label}
             </a>
             {` | `}
-            <a href={content.release_notes.href} target="_blank">
+            <a
+              href={content.release_notes.href}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               {content.release_notes.label}
             </a>
           </div>
