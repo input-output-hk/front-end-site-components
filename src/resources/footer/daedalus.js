@@ -64,7 +64,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
     `,
     terms_of_service: {
       label: '利用規約',
-      href: '/ja/tos/',
+      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf',
     },
     data_protection: {
       label: 'データ保護',
