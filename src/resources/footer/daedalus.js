@@ -49,7 +49,7 @@ _Past performance is not indicative of future results. Any investment in blockch
         },
         {
           label: 'Cardano Foundation Twitter',
-          href: 'https://twitter.com/cardanostiftung',
+          href: 'https://twitter.com/Cardano_CF',
         },
       ],
     },
@@ -118,7 +118,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         },
         {
           label: 'Cardano Foundation Twitter',
-          href: 'https://twitter.com/cardanostiftung',
+          href: 'https://twitter.com/Cardano_CF',
         },
       ],
     },
@@ -204,7 +204,7 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
           label: 'Cardano Foundation YouTube',
         },
         {
-          href: 'https://twitter.com/cardanostiftung',
+          href: 'https://twitter.com/Cardano_CF',
           label: 'Cardano 재단 트위터',
         },
       ],
@@ -291,7 +291,7 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
           label: 'Cardano Foundation YouTube',
         },
         {
-          href: 'https://twitter.com/cardanostiftung',
+          href: 'https://twitter.com/Cardano_CF',
           label: 'Cardano Foundation Twitter',
         },
       ],
