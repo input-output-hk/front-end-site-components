@@ -246,10 +246,6 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
           label: 'Daedalus',
         },
         {
-          href: 'https://testnet.iohkdev.io',
-          label: 'Cardano Testnets',
-        },
-        {
           href: 'https://cardanorust.iohkdev.io',
           label: 'Cardano Rust',
         },
