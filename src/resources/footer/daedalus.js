@@ -51,6 +51,10 @@ _Past performance is not indicative of future results. Any investment in blockch
           label: 'Cardano Foundation Twitter',
           href: 'https://twitter.com/Cardano_CF',
         },
+        {
+          label: 'IOG Academy',
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
+        },
       ],
     },
   },
@@ -119,6 +123,10 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         {
           label: 'Cardano Foundation Twitter',
           href: 'https://twitter.com/Cardano_CF',
+        },
+        {
+          label: 'IOG Academy',
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
         },
       ],
     },
@@ -289,6 +297,10 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
         {
           href: 'https://twitter.com/Cardano_CF',
           label: 'Cardano Foundation Twitter',
+        },
+        {
+          label: 'IOG Academy',
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
         },
       ],
     },
