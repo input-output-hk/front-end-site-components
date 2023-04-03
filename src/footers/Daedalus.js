@@ -148,11 +148,9 @@ const LinksColumn = styled.div`
 
 const Daedalus = ({ lang, theme }) => {
   const content = daedalus[lang]
-  if (!content)
-    throw new Error(`No content for Cardano footer in language "${lang}"`)
+  if (!content) { throw new Error(`No content for Cardano footer in language "${lang}"`) }
   let logoURL = 'https://ucarecdn.com/75b74f03-ff04-47ba-821c-5e477d3d46d4/'
-  if (theme === 'dark')
-    logoURL = 'https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/'
+  if (theme === 'dark') { logoURL = 'https://ucarecdn.com/8102d054-1169-4af8-81a9-1ea43c680a45/' }
   return (
     <Container>
       <TopRow>
@@ -162,9 +160,9 @@ const Daedalus = ({ lang, theme }) => {
           </div>
           <div>
             <Link
-              rel="noopener"
-              title="Input Output HK GitHub"
-              href="https://github.com/input-output-hk"
+              rel='noopener'
+              title='Input Output HK GitHub'
+              href='https://github.com/input-output-hk'
             >
               <DiGithubBadge size={25} />
             </Link>
@@ -173,14 +171,14 @@ const Daedalus = ({ lang, theme }) => {
         <TopRight>
           <Logo>
             <Link
-              rel="noopener"
-              href="https://iohk.io/"
-              title="Input Output HK"
+              rel='noopener'
+              href='https://iohk.io/'
+              title='Input Output HK'
             >
               <div>
                 <Image
                   src={logoURL}
-                  alt="IOHK logo"
+                  alt='IOHK logo'
                   sizeFactor={0.14}
                   maintainTransparency
                 />
@@ -193,36 +191,36 @@ const Daedalus = ({ lang, theme }) => {
           <SocialLinks>
             <SocialLink>
               <Link
-                title="Input Output HK Twitter"
-                rel="noopener"
-                href="https://twitter.com/inputoutputHK"
+                title='Input Output HK Twitter'
+                rel='noopener'
+                href='https://twitter.com/inputoutputHK'
               >
                 <FaTwitter size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
               <Link
-                title="Input Output HK Facebook"
-                rel="noopener"
-                href="https://www.facebook.com/iohk.io/"
+                title='Input Output HK Facebook'
+                rel='noopener'
+                href='https://www.facebook.com/iohk.io/'
               >
                 <FaFacebookF size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
               <Link
-                title="Input Output HK YouTube"
-                rel="noopener"
-                href="https://www.youtube.com/c/IohkIo"
+                title='Input Output HK YouTube'
+                rel='noopener'
+                href='https://www.youtube.com/c/IohkIo'
               >
                 <FaYoutube size={20} />
               </Link>
             </SocialLink>
             <SocialLink>
               <Link
-                title="Input Output HK Blog"
-                rel="noopener"
-                href="https://iohk.io/blog/"
+                title='Input Output HK Blog'
+                rel='noopener'
+                href='https://iohk.io/blog/'
               >
                 <FaRss size={20} />
               </Link>
@@ -232,29 +230,29 @@ const Daedalus = ({ lang, theme }) => {
       </TopRow>
       <hr />
       <BottomRow>
-        <div className="body-text">
+        <div className='body-text'>
           <Markdown source={content.body} />
           <div>
             <a
               href={content.terms_of_service.href}
-              target="_blank"
-              rel="noopener noreferrer"
+              target='_blank'
+              rel='noopener noreferrer'
             >
               {content.terms_of_service.label}
             </a>
             {` | `}
             <a
               href={content.data_protection.href}
-              target="_blank"
-              rel="noopener noreferrer"
+              target='_blank'
+              rel='noopener noreferrer'
             >
               {content.data_protection.label}
             </a>
             {` | `}
             <a
               href={content.release_notes.href}
-              target="_blank"
-              rel="noopener noreferrer"
+              target='_blank'
+              rel='noopener noreferrer'
             >
               {content.release_notes.label}
             </a>
@@ -268,7 +266,7 @@ const Daedalus = ({ lang, theme }) => {
             <ul>
               {content.cardanoLinks.links.map(({ href, label }) => (
                 <li key={`${href}_${label}`}>
-                  <Link href={href} rel="noopener">
+                  <Link href={href} rel='noopener'>
                     {label}
                   </Link>
                 </li>
@@ -282,7 +280,7 @@ const Daedalus = ({ lang, theme }) => {
             <ul>
               {content.communityLinks.links.map(({ href, label }) => (
                 <li key={`${href}_${label}`}>
-                  <Link href={href} rel="noopener">
+                  <Link href={href} rel='noopener'>
                     {label}
                   </Link>
                 </li>
@@ -297,7 +295,7 @@ const Daedalus = ({ lang, theme }) => {
 
 Daedalus.propTypes = {
   lang: PropTypes.string.isRequired,
-  theme: PropTypes.oneOf(['dark', 'light']).isRequired,
+  theme: PropTypes.oneOf(['dark', 'light']).isRequired
 }
 
 export default Daedalus

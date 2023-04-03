@@ -9,15 +9,15 @@ _Past performance is not indicative of future results. Any investment in blockch
     `,
     terms_of_service: {
       label: 'Terms of service',
-      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf',
+      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf'
     },
     data_protection: {
       label: 'Data Protection',
-      href: 'https://static.iohk.io/terms/iog-privacy-policy.pdf',
+      href: 'https://static.iohk.io/terms/iog-privacy-policy.pdf'
     },
     release_notes: {
       label: 'Release notes',
-      href: 'https://iohk.zendesk.com/hc/en-us/sections/360002144313-Updates',
+      href: 'https://iohk.zendesk.com/hc/en-us/sections/360002144313-Updates'
     },
     cardanoLinks: {
       title: 'More about Cardano',
@@ -27,15 +27,15 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'Documentation', href: 'https://docs.cardano.org/' },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Why Cardano', href: 'https://cardano.org/why/' },
-        { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' },
-      ],
+        { label: 'Cardano Testnets', href: 'https://testnet.iohkdev.io/' }
+      ]
     },
     communityLinks: {
       title: 'Join the community',
       links: [
         {
           label: 'Cardano Telegram',
-          href: 'https://t.me/CardanoAnnouncements/',
+          href: 'https://t.me/CardanoAnnouncements/'
         },
         { label: 'Cardano Forum', href: 'https://forum.cardano.org/' },
         { label: 'Cardano Reddit', href: 'https://www.reddit.com/r/cardano/' },
@@ -45,18 +45,18 @@ _Past performance is not indicative of future results. Any investment in blockch
         { label: 'IOHK Twitter', href: 'https://twitter.com/InputOutputHK/' },
         {
           label: 'Cardano Foundation YouTube',
-          href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg',
+          href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg'
         },
         {
           label: 'Cardano Foundation Twitter',
-          href: 'https://twitter.com/Cardano_CF',
+          href: 'https://twitter.com/Cardano_CF'
         },
         {
           label: 'IOG Academy',
-          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
-        },
-      ],
-    },
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw'
+        }
+      ]
+    }
   },
   ja: {
     body: `
@@ -68,45 +68,45 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
     `,
     terms_of_service: {
       label: '利用規約',
-      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf',
+      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf'
     },
     data_protection: {
       label: 'データ保護',
-      href: 'https://static.iohk.io/terms/iog-privacy-policy.pdf',
+      href: 'https://static.iohk.io/terms/iog-privacy-policy.pdf'
     },
     release_notes: {
       label: 'リリースノート',
-      href: 'https://iohk.zendesk.com/hc/ja/sections/360002144313-Updates',
+      href: 'https://iohk.zendesk.com/hc/ja/sections/360002144313-Updates'
     },
     cardanoLinks: {
       title: 'Cardanoについてもっと知る',
       links: [
         {
           label: 'Cardanoエクスプローラー',
-          href: 'https://cardanoexplorer.com/',
+          href: 'https://cardanoexplorer.com/'
         },
         { label: 'Cardano財団', href: 'https://cardanofoundation.org/' },
         {
           label: 'ドキュメンテーション',
-          href: 'https://cardanodocs.com/introduction/',
+          href: 'https://cardanodocs.com/introduction/'
         },
         { label: 'Cardano.org', href: 'https://www.cardano.org/' },
         { label: 'Daedalus', href: 'https://daedaluswallet.io' },
         { label: 'Cardanoを選ぶ理由', href: 'https://cardano.org/why/jp' },
         { label: 'Cardanoテストネット', href: 'https://testnet.iohkdev.io/' },
-        { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' },
-      ],
+        { label: 'Cardano Rust', href: 'https://cardanorust.iohkdev.io/' }
+      ]
     },
     communityLinks: {
       title: 'コミュニティに参加する',
       links: [
         {
           label: 'Cardanoコミュニティ',
-          href: 'https://www.cardano.org/ja/home-2/',
+          href: 'https://www.cardano.org/ja/home-2/'
         },
         {
           label: 'Cardano Telegram',
-          href: 'https://t.me/CardanoJapanOfficial',
+          href: 'https://t.me/CardanoJapanOfficial'
         },
         { label: 'Cardanoフォーラム', href: 'https://forum.cardano.org/' },
         { label: 'Cardano Reddit', href: 'https://www.reddit.com/r/cardano/' },
@@ -114,22 +114,22 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
         { label: 'IOHK blog', href: 'https://www.iohk.io/blog/' },
         {
           label: 'IOHK YouTube',
-          href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w',
+          href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w'
         },
         {
           label: 'Cardano Foundation YouTube',
-          href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg',
+          href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg'
         },
         {
           label: 'Cardano Foundation Twitter',
-          href: 'https://twitter.com/Cardano_CF',
+          href: 'https://twitter.com/Cardano_CF'
         },
         {
           label: 'IOG Academy',
-          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
-        },
-      ],
-    },
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw'
+        }
+      ]
+    }
   },
   ko: {
     body: `
@@ -144,79 +144,79 @@ Cardano는 소프트웨어 플랫폼일 뿐이며 블록체인 자산, 디지털
       links: [
         {
           href: 'https://cardanoexplorer.com/',
-          label: 'Cardano 탐색기',
+          label: 'Cardano 탐색기'
         },
         {
           href: 'https://cardanofoundation.org/',
-          label: 'Cardano Foundation',
+          label: 'Cardano Foundation'
         },
         {
           href: 'https://cardanodocs.com/introduction/',
-          label: '문서',
+          label: '문서'
         },
         {
           href: 'https://whycardano.com/',
-          label: '왜 Cardano인가',
+          label: '왜 Cardano인가'
         },
         {
           href: 'https://cardano.org',
-          label: 'Cardano.org',
+          label: 'Cardano.org'
         },
         {
           href: 'https://cardaedaluswallet.io',
-          label: 'Daedalus',
+          label: 'Daedalus'
         },
         {
           href: 'https://testnet.iohkdev.io',
-          label: 'Cardano 테스트넷',
+          label: 'Cardano 테스트넷'
         },
         {
           href: 'https://cardanorust.iohkdev.io',
-          label: 'Cardano Rust',
-        },
-      ],
+          label: 'Cardano Rust'
+        }
+      ]
     },
     communityLinks: {
       title: '커뮤니티 가입하기',
       links: [
         {
           href: 'https://cardano.org',
-          label: 'Cardano 커뮤니티',
+          label: 'Cardano 커뮤니티'
         },
         {
           href: 'https://t.me/CardanoAnnouncements/',
-          label: 'Cardano 텔레그램',
+          label: 'Cardano 텔레그램'
         },
         {
           href: 'https://forum.cardano.org/',
-          label: 'Cardano 포럼',
+          label: 'Cardano 포럼'
         },
         {
           href: 'https://www.reddit.com/r/cardano/',
-          label: 'Cardano 레딧',
+          label: 'Cardano 레딧'
         },
         {
           href: 'https://iohk.io/',
-          label: 'IOHK',
+          label: 'IOHK'
         },
         {
           href: 'https://iohk.io/blog/',
-          label: 'IOHK 블로그',
+          label: 'IOHK 블로그'
         },
         {
           href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w',
-          label: 'IOHK 유튜브',
+          label: 'IOHK 유튜브'
         },
         {
           href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg',
-          label: 'Cardano Foundation YouTube',
+          label: 'Cardano Foundation YouTube'
         },
         {
           href: 'https://twitter.com/Cardano_CF',
-          label: 'Cardano 재단 트위터',
-        },
-      ],
-    },
+          label: 'Cardano 재단 트위터'
+        }
+      ]
+    }
   },
   'zh-cn': {
     body: `
@@ -231,78 +231,78 @@ Cardano只是一种软件平台，不对任何区块链资产、数字货币、�
       links: [
         {
           href: 'https://cardanoexplorer.com/',
-          label: 'Cardano浏览器',
+          label: 'Cardano浏览器'
         },
         {
           href: 'https://cardanofoundation.org/',
-          label: 'Cardano Foundation',
+          label: 'Cardano Foundation'
         },
         {
           href: 'https://cardanodocs.com/introduction/cn/',
-          label: '文档',
+          label: '文档'
         },
         {
           href: 'https://whycardano.com/cn/',
-          label: '为何选择Cardano',
+          label: '为何选择Cardano'
         },
         {
           href: 'https://cardano.org',
-          label: 'Cardano.org',
+          label: 'Cardano.org'
         },
         {
           href: 'https://daedaluswallet.io',
-          label: 'Daedalus',
+          label: 'Daedalus'
         },
         {
           href: 'https://cardanorust.iohkdev.io',
-          label: 'Cardano Rust',
-        },
-      ],
+          label: 'Cardano Rust'
+        }
+      ]
     },
     communityLinks: {
       title: '加入社区',
       links: [
         {
           href: 'https://www.cardano.org/zh/home-3/',
-          label: 'Cardano社区',
+          label: 'Cardano社区'
         },
         {
           href: 'https://t.me/CardanoAnnouncements/',
-          label: 'Cardano Telegram',
+          label: 'Cardano Telegram'
         },
         {
           href: 'https://forum.cardano.org/',
-          label: 'Cardano论坛',
+          label: 'Cardano论坛'
         },
         {
           href: 'https://www.reddit.com/r/cardano/',
-          label: 'Cardano Reddit',
+          label: 'Cardano Reddit'
         },
         {
           href: 'https://iohk.io',
-          label: 'IOHK',
+          label: 'IOHK'
         },
         {
           href: 'https://iohk.io/blog',
-          label: 'IOHK博客',
+          label: 'IOHK博客'
         },
         {
           href: 'https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w',
-          label: 'IOHK YouTube',
+          label: 'IOHK YouTube'
         },
         {
           href: 'https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg',
-          label: 'Cardano Foundation YouTube',
+          label: 'Cardano Foundation YouTube'
         },
         {
           href: 'https://twitter.com/Cardano_CF',
-          label: 'Cardano Foundation Twitter',
+          label: 'Cardano Foundation Twitter'
         },
         {
           label: 'IOG Academy',
-          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw',
-        },
-      ],
-    },
-  },
+          href: 'https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw'
+        }
+      ]
+    }
+  }
 }
