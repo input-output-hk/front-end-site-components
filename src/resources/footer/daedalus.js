@@ -9,7 +9,7 @@ _Past performance is not indicative of future results. Any investment in blockch
     `,
     terms_of_service: {
       label: 'Terms of service',
-      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf'
+      href: 'https://static.iohk.io/terms/iog-terms-and-conditions.pdf'
     },
     data_protection: {
       label: 'Data Protection',
@@ -68,7 +68,7 @@ Cardanoはソフトウェアプラットフォームのみを提供します。�
     `,
     terms_of_service: {
       label: '利用規約',
-      href: 'https://static.iohk.io/terms/iohktermsandconditions.pdf'
+      href: 'https://static.iohk.io/terms/iog-terms-and-conditions.pdf'
     },
     data_protection: {
       label: 'データ保護',
